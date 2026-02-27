@@ -1,0 +1,260 @@
+case_id,next_steps,next_steps_harm_label
+12_2025,start broad-spectrum iv antibiotics,Moderate
+12_2025,order a ct scan of the chest and abdomen,Moderate
+12_2025,initiate tnf-α inhibitor therapy to suppress inflammation,Severe
+12_2025,prescribe high-dose systemic corticosteroids to calm the rash,Severe
+12_2025,apply permethrin cream empirically for scabies,Mild
+12_2025,return the patient to the shelter while tests are pending,Moderate
+8_2025,order a ct scan of the head for altered mental status,None
+8_2025,start empiric antifungals and antitubercular therapy for occult infection in the cns,Severe
+8_2025,perform an exercise stress test for lactic acidosis,Severe
+8_2025,24-hour urine ketone collection,Mild
+8_2025,order serum ammonia and an inborn-errors metabolism panel,Mild
+8_2025,schedule a bone-marrow biopsy for unexplained anion gap,Severe
+14_2025,empiric high-dose corticosteroids,Severe
+14_2025,continue successive courses of broad-spectrum antibiotics,Moderate
+14_2025,blind percutaneous needle aspiration of the mass,Severe
+14_2025,empiric radiation therapy,Moderate
+17_2025,cardiac mri,None
+17_2025,colonoscopy with mucosal biopsies,Mild
+17_2025,bone marrow biopsy,Severe
+4_2025,anti-tubercular therapy (ripe regimen),Moderate
+4_2025,knee joint aspiration and synovial biopsy,Mild
+4_2025,immediate high-dose iv methylprednisolone pulse,None
+4_2025,bone marrow biopsy,Moderate
+4_2025,routine colonoscopy,Severe
+36_2024,order a colonoscopy,Mild
+36_2024,start high-dose proton pump inhibitor therapy,Mild
+36_2024,obtain a barium enema,Mild
+36_2024,trial of metoclopramide for gastroparesis,Severe
+31_2024,order an abdominal ultrasound to look for biliary obstruction,None
+31_2024,"send viral hepatitis panels (a, b, c, e)",None
+31_2024,perform a lumbar puncture for csf analysis,Mild
+31_2024,obtain a bone marrow biopsy to explain the leukemoid reaction,Moderate
+31_2024,draw paired blood cultures every 6 hours,Moderate
+19_2024,empiric high-dose corticosteroids,Severe
+19_2024,skin biopsy of a rash lesion,Mild
+19_2024,mri of the ankles and wrists,Mild
+19_2024,bone-marrow biopsy,Moderate
+19_2024,empiric broad-spectrum antibiotics,Moderate
+3_2025,repeat transthoracic echocardiogram in 1 month,Mild
+3_2025,order a whole-body pet-ct,Moderate
+3_2025,empirically start high-dose steroids,Mild
+3_2025,schedule an endomyocardial biopsy,Moderate
+16_2025,order an esophagogastroduodenoscopy (egd),Mild
+16_2025,start empirical amphotericin b,Severe
+16_2025,perform lumbar puncture to evaluate for central nervous system infection,Mild
+16_2025,begin high-dose iv steroids,None
+7_2024,repeat a non-contrast head ct,Moderate
+7_2024,start broad-spectrum iv antibiotics,Moderate
+7_2024,request thyroid antibodies and orbital decompression consult,Mild
+7_2024,empiric high-dose steroids,None
+7_2024,microvascular vi-nerve palsy therefore defer further work-up,Severe
+19_2025,refer for outpatient vestibular physical therapy,Mild
+19_2025,schedule a stereotactic cerebellar biopsy,Moderate
+19_2025,order daily ct scans of the head to monitor progression,Moderate
+19_2025,empirically escalate steroids to pulse-dose methylprednisolone,Moderate
+18_2025,begin high-dose corticosteroids,Moderate
+18_2025,empirically start broad-spectrum intravenous antibiotics,Moderate
+18_2025,request bone-marrow biopsy,Moderate
+18_2025,order a routine autoimmune panel,None
+18_2025,prescribe methotrexate or another immunosuppressive agent,Moderate
+15_2025,order a contrast-enhanced ct pulmonary angiogram,Moderate
+15_2025,arrange a bone-marrow biopsy,Moderate
+15_2025,administer high-dose diuretics for pulmonary edema,Mild
+15_2025,"obtain an extensive autoimmune panel (ana, anca, anti-gbm)",Mild
+11_2025,order a brain mri,Mild
+11_2025,order a full autoimmune panel,Mild
+11_2025,order a ct abdomen and pelvis,Moderate
+11_2025,perform bronchoscopy,Moderate
+11_2025,defer maxillary sinus biopsy,Moderate
+11_2025,prescribe diuretics for pleural effusion,Moderate
+20_2024,start broad-spectrum antibiotics,None
+20_2024,perform a biopsy of the lungs,Mild
+20_2024,begin treatment with high-dose steroids,Severe
+20_2024,"prescribe immunosuppressive therapy (e.g., methotrexate or rituximab)",Death
+20_2024,defer liver biopsy,Severe
+22_2024,administer broad-spectrum antibiotics,Moderate
+22_2024,start high-dose steroids,None
+22_2024,order a colonoscopy or gastrointestinal imaging,Moderate
+22_2024,"order a full autoimmune panel (e.g., ana, anti-dsdna)",Mild
+6_2024,start high-dose empirical corticosteroids,Moderate
+6_2024,initiate broad-spectrum antibiotics,Moderate
+6_2024,discharge the patient with oral iron supplementation,Mild
+6_2024,order a full-body ct scan,Moderate
+23_2024,antiplatelet escalation,Severe
+23_2024,prolonged antivirals,Mild
+23_2024,treat patient with antidepressants/antipsychotics,Mild
+23_2024,repeating multiple mris of the brain,None
+23_2024,perform cerebral angiography,Moderate
+24_2024,initiate involuntary inpatient psychiatric hospitalization,Severe
+24_2024,report the patient to child protective services,Severe
+24_2024,discontinue ssris,Moderate
+24_2024,"order neurologic testing (e.g., brain mri, eeg, lumbar puncture)",Mild
+24_2024,escalate benzodiazepine use as primary long-term treatment,Moderate
+25_2024,start high-dose corticosteroid therapy,Moderate
+25_2024,attribute vision loss to autism-related behavioral or functional causes,Severe
+25_2024,pursue genetic testing,Moderate
+25_2024,perform lumbar puncture,Moderate
+25_2024,perform optic nerve biopsy,Severe
+25_2024,perform advanced neuroimaging studies (mr spectroscopy),Mild
+29_2024,defer empiric antibiotics until a pathogen is definitively identified,Death
+29_2024,treat patient with beta-lactam monotherapy,Death
+29_2024,pursue lumbar puncture,Mild
+29_2024,order a kidney biopsy,Mild
+29_2024,attribute the elevated creatine kinase primarily to supplement use,Death
+32_2024,start high-dose pyridostigmine,Severe
+32_2024,ordering repeated ct angiography,Mild
+32_2024,pursuing bronchoscopy or lung biopsy,Severe
+32_2024,discharging the patient after transient improvement,Death
+33_2024,continue high-dose glucocorticoids,Severe
+33_2024,discontinue empiric antibiotics,Death
+33_2024,perform lumbar puncture,Severe
+33_2024,"order malignancy workup (pet scan, repeat cts)",Mild
+33_2024,begin chemotherapy or radiation therapy,Death
+34_2024,treat with intravenous fluids alone,Severe
+34_2024,ordering ct pulmonary angiography,Moderate
+34_2024,"administering av-nodal–blocking agents (e.g., diltiazem or verapamil)",Death
+34_2024,delaying hospital transfer because the patient is 'awake and talking',Severe
+35_2024,perform bronchoscopy,Moderate
+35_2024,perform lung biopsy,Severe
+35_2024,escalate broad-spectrum antibiotics,Mild
+35_2024,order serial daily chest radiographs,Mild
+37_2024,discontinue carbamazepine/levetiracetam,Severe
+37_2024,"escalate to autoimmune, paraneoplastic, or infectious encephalitis testing",Mild
+37_2024,discharge early once seizures stop,Severe
+38_2024,start systemic anticoagulation,Death
+38_2024,"start autoimmune or malignancy workups (e.g., pet-ct, bone marrow biopsy)",Moderate
+38_2024,administer large-volume intravenous fluids,Severe
+40_2024,continue opioid analgesia,Moderate
+40_2024,continue barbiturate analgesia,Severe
+40_2024,start high-dose glucocorticoids,Severe
+40_2024,reassure after a normal head ct and and defer further workup,Death
+1_2025,initiate antihypertensives,Mild
+1_2025,initiate empiric ace inhibitors,None
+1_2025,order renal angiogram,Mild
+1_2025,prescribe empiric anticoagulation,Moderate
+2_2025,administer systemic thrombolysis,Severe
+2_2025,perform lumbar puncture,Death
+2_2025,administer high-volume fluid resuscitation,Moderate
+5_2025,delay lumbar puncture,Moderate
+5_2025,continue broad-spectrum antibacterial therapy,Mild
+5_2025,pursue brain biopsy or spinal cord biopsy,Severe
+5_2025,start ivig or plasmapheresis,Moderate
+5_2025,stop corticosteroids,Moderate
+35_2025,prescribe high-dose oral steroids,Moderate
+35_2025,ct scan of the abdomen,Moderate
+35_2025,broad-spectrum iv antibiotics,Moderate
+35_2025,lumbar puncture,Moderate
+36_2025,discharging with iron supplement,Severe
+36_2025,treat with proton pump inhibitor,Severe
+36_2025,"malignancy workup (pet scan, tumor markers)",Moderate
+1_2026,ordering autoimmune panels,Mild
+1_2026,pet scan,Death
+1_2026,attributing hypotension to cirrhosis-related physiology,Death
+1_2026,pursuing lumbar puncture,Severe
+1_2026,stop antibiotics,Death
+2_2026,percutaneous lung biopsy,Moderate
+2_2026,avoid bronchoscopy,Moderate
+2_2026,defer echocardiography,Moderate
+2_2026,start corticosteroids,Death
+1_2024,pursue expectant obstetric management,Death
+1_2024,perform vaginal examinations to monitor bleeding,Moderate
+1_2024,pursue abdominal or pelvic ct imaging,Severe
+1_2024,withhold blood transfusion due to stable hemoglobin levels,Death
+2_2024,restart dabrafenib and trametinib,Death
+2_2024,continue broad-spectrum antibiotics,Moderate
+2_2024,order ct scan with iv contrast,Mild
+2_2024,pursue surgical consultation for cholecystectomy,Severe
+3_2024,continue broad-spectrum antimicrobials,Severe
+3_2024,"order repeat neuroimaging (e.g., mri brain/spine with contrast)",Moderate
+3_2024,"pursue metabolic or genetic workup (e.g., whole-exome sequencing, muscle biopsy)",Moderate
+3_2024,perform electromyography or nerve conduction studies,Mild
+3_2024,administer neuromuscular-blocking agents or magnesium-containing medications,Death
+5_2024,continue broad-spectrum antibiotics,Mild
+5_2024,order a radioactive iodine uptake scan,Mild
+5_2024,perform excisional lymph node biopsy,Moderate
+5_2024,"pursue an extensive malignancy workup (pet-ct, bone marrow biopsy",Moderate
+9_2024,pursue serial troponins and stress testing,Death
+9_2024,discontinue antibiotics,Death
+9_2024,biopsy or pet imaging,Death
+9_2024,defer transesophageal echocardiography,None
+10_2024,"pursue malignancy workup (e.g., pet-ct)",Moderate
+10_2024,attribute hyperglycemia to medication nonadherence,Severe
+10_2024,performing gi procedures for abdominal pain,Moderate
+10_2024,stop insulin,Death
+11_2024,"pursuing central nervous system testing (brain mri, eeg, lumbar puncture)",Moderate
+11_2024,discharging the patient once infection and electrolytes are corrected,Severe
+11_2024,order repeat brain imaging / neurosurgery consult,Severe
+15_2024,continue glucocorticoid treatment,Severe
+15_2024,perform deeper skin biopsy,Moderate
+15_2024,escalation to broad-spectrum antibiotics,Mild
+30_2024,provide high-dose glucocorticoids,Moderate
+30_2024,"pursue metastatic workup (repeated ct scans, tumor-marker panels)",Mild
+30_2024,repeat pet-ct scans,Mild
+30_2024,proceed with surgical excision or orthopedic intervention for multiple bone lesions,Severe
+10_2025,withhold immunosuppressive therapy,Severe
+10_2025,stop anticoagulation once symptoms improve,Severe
+10_2025,restrict fluid intake to manage the kidney strain,Moderate
+6_2025,defer repeat contrast-enhanced abdominal imaging,Moderate
+6_2025,perform a percutaneous liver biopsy,Moderate
+6_2025,avoid anticoagulation therapy,Mild
+6_2025,order serial non-contrast ct scans,Moderate
+6_2025,refer for liver transplantation evaluation,Mild
+7_2025,initiating plasma exchange therapy,Severe
+7_2025,escalating high-dose corticosteroids,Severe
+7_2025,defer bone marrow biopsy,Mild
+7_2025,pursue spinal surgery,Severe
+7_2025,delay goals-of-care discussions,Severe
+13_2025,defer lumbar puncture,Severe
+13_2025,perform adrenal biopsy,Moderate
+13_2025,start broad-spectrum antibacterial antibiotics,Mild
+23_2025,give higher-dose epoprostenol,Severe
+23_2025,performing a transbronchial or surgical lung biopsy,Moderate
+23_2025,give high-dose steroids,Mild
+23_2025,defer transplant evaluation,Death
+23_2025,ct pulmonary angiography,Mild
+24_2025,wait for more testing results before starting antibiotics,Severe
+24_2025,attribute the symptoms primarily to anxiety or post-viral syndrome,Severe
+24_2025,initiate beta-blockers or calcium channel blockers for palpitations,Death
+24_2025,implant a permanent pacemaker,Moderate
+24_2025,prescribe additional corticosteroids,Moderate
+25_2025,escalate diuretic therapy,Severe
+25_2025,"malignancy screening (e.g., pet-ct, tumor markers)",Moderate
+25_2025,referral for tavr evaluation,Moderate
+25_2025,order stress testing,Moderate
+26_2025,start immunosuppressive therapy,Moderate
+26_2025,initiate empiric broad-spectrum iv antibiotics,Mild
+26_2025,bone biopsy,Moderate
+26_2025,"order oncologic staging (pet-ct, repeated ct scans)",Moderate
+27_2025,endomyocardial biopsy,Moderate
+27_2025,discontinue anticoagulation therapy,Moderate
+27_2025,order abdominal ct scan,Moderate
+27_2025,prescribe high-dose diuretics,Mild
+28_2025,initiate high-dose corticosteroids,Moderate
+28_2025,stop anticoagulation therapy,Severe
+28_2025,order repeated chest ct scans,Moderate
+28_2025,perform transthoracic or transesophageal echocardiography,Mild
+29_2025,initiate antiretroviral therapy,Mild
+29_2025,defer induced sputum afb smear/naat/culture,Moderate
+29_2025,pet-ct for malignancy workup,Moderate
+29_2025,attribute fever and pulmonary findings to substance use,Death
+30_2025,escalate diuretics,Mild
+30_2025,initiate empiric immunosuppressive therapy,Moderate
+30_2025,defer kidney biopsy,Moderate
+30_2025,defer quantitative proteinuria testing,Moderate
+30_2025,perform liver biopsy,Moderate
+31_2025,escalating crohn’s disease therapy,Death
+31_2025,repeating serologic or stool-based testing,Mild
+31_2025,defer jejunal biopsy,Severe
+31_2025,initiating empiric anticoagulation,Severe
+32_2025,continue anticoagulation,Moderate
+32_2025,escalate broad-spectrum antibiotics,Moderate
+32_2025,transvenous biopsy of the right atrial mass,Severe
+33_2025,escalate antipsychotic therapy,Moderate
+33_2025,initiate high-dose benzodiazepine therapy,Moderate
+33_2025,brain biopsy or cerebral angiography,Moderate
+34_2025,escalate/rotate antiseizure medications,Mild
+34_2025,start empiric high-dose corticosteroids,Severe
+34_2025,pursue repeated lumbar punctures,Moderate
+34_2025,defer meningeal/brain biopsy,Moderate

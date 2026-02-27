@@ -1,0 +1,3283 @@
+{
+    "cases": [
+        {
+            "case_id": "case_22_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309500",
+            "pub_date": "July 17, 2024",
+            "case_type": "Dermatology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Endometritis", 
+                "Infected Hidradenitis Suppurativa-associated Lesions", 
+                "Sweet's Syndrome", 
+                "Sepsis", 
+                "PAPA Syndrome (pyogenic arthritis, pyoderma gangrenosum, and acne)", 
+                "PASH Syndrome (pyoderma gangrenosum, acne, and hidradenitis suppurativa)"
+            ],
+            "next_steps": [
+                "Skin Biopsy", 
+                "CT and MRI of abdomen and pelvis", 
+                "Management with Glucocorticoids", 
+                "Blood, cervical, and intraabdominal cultures"
+            ],
+            "final_diagnosis": "Sweet's syndrome",
+            "high_quality_distracting_final_diagnosis": "PASH Syndrome",
+            "low_quality_distracting_final_diagnosis": "Endometritis",
+            "poor_quality_distracting_final_diagnosis": "Cellulitis"
+        },
+        {
+            "case_id": "case_22_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309500",
+            "pub_date": "July 17, 2024",
+            "case_type": "Dermatology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Endometritis", 
+                "Infected Hidradenitis Suppurativa-associated Lesions", 
+                "Sepsis", 
+                "PAPA Syndrome (pyogenic arthritis, pyoderma gangrenosum, and acne)", 
+                "PASH Syndrome (pyoderma gangrenosum, acne, and hidradenitis suppurativa)"
+            ],
+            "next_steps": [
+                "Administer broad-spectrum antibiotics", 
+                "Start high-dose steroids", 
+                "Order a colonoscopy or gastrointestinal imaging", 
+                "Order a full autoimmune panel (e.g., ANA, anti-dsDNA)"
+            ],
+            "final_diagnosis": "Sweet's syndrome",
+            "high_quality_distracting_final_diagnosis": "PASH Syndrome",
+            "low_quality_distracting_final_diagnosis": "Endometritis",
+            "poor_quality_distracting_final_diagnosis": "Cellulitis"
+        },
+        {
+            "case_id": "case_6_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309498",
+            "pub_date": "February 21, 2024",
+            "case_type": "Autoimmune",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Acute or sub-acute viral infection (e.g., Epstein-Barr Virus, Cytomegalovirus, Parvovirus B19, Adenovirus)", 
+                "Pernicious anemia", 
+                "Tick-borne / hemolytic infections (e.g., Babesiosis)", 
+                "Hematologic malignancy (e.g., Leukemia, Lymphoma)", 
+                "Systemic autoimmune & inflammatory syndromes (e.g., Systemic lupus erythematosus, Hemophagocytic lymphohistiocytosis)", 
+                "Immune-mediated hemolysis (e.g., Autoimmune Hemolytic Anemia, Paroxysmal Nocturnal Hemoglobinuria)"
+            ],
+            "next_steps": [
+                "Serum vitamin B12, folate, methylmalonic acid, homocysteine", 
+                "Bone-marrow biopsy with flow cytometry and cytogenetics", 
+                "Autoimmune-gastritis work-up"
+            ],
+            "final_diagnosis": "Pernicious anemia",
+            "high_quality_distracting_final_diagnosis": "Cold agglutinin autoimmune hemolytic anemia",
+            "low_quality_distracting_final_diagnosis": "Paroxysmal nocturnal hemoglobinuria",
+            "poor_quality_distracting_final_diagnosis": "Iron deficiency anemia"
+        },
+        {
+            "case_id": "case_6_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309498",
+            "pub_date": "February 21, 2024",
+            "case_type": "Autoimmune",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Acute or sub-acute viral infection (e.g., Epstein-Barr Virus, Cytomegalovirus, Parvovirus B19, Adenovirus)", 
+                "Tick-borne / hemolytic infections (e.g., Babesiosis)", 
+                "Hematologic malignancy (e.g., Leukemia, Lymphoma)", 
+                "Systemic autoimmune & inflammatory syndromes (e.g., Systemic lupus erythematosus, Hemophagocytic lymphohistiocytosis)", 
+                "Immune-mediated hemolysis (e.g., Autoimmune Hemolytic Anemia, Paroxysmal Nocturnal Hemoglobinuria)"
+            ],
+            "next_steps": [
+                "Start high-dose empirical corticosteroids", 
+                "Initiate broad-spectrum antibiotics", 
+                "Discharge the patient with oral iron supplementation", 
+                "Order a full-body CT scan"
+            ],
+            "final_diagnosis": "Pernicious anemia",
+            "high_quality_distracting_final_diagnosis": "Cold agglutinin autoimmune hemolytic anemia",
+            "low_quality_distracting_final_diagnosis": "Paroxysmal nocturnal hemoglobinuria",
+            "poor_quality_distracting_final_diagnosis": "Iron deficiency anemia"
+        },
+        {
+            "case_id": "case_1_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2301033",
+            "pub_date": "January 10, 2024",
+            "case_type": "Emergency Medicine",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Placenta previa",
+                "Placental abruption",
+                "Uterine rupture",
+                "Subchorionic hemorrhage",
+                "Disseminated intravascular coagulation due to carpet viper (Echis ocellatus) envenomation",
+                "HELLP syndrome",
+                "Acute fatty liver of pregnancy",
+                "Pregnancy-associated thrombotic microangiopathy"
+            ],
+            "next_steps": [
+                "Snake Identification",
+                "Vaginal examination to assess pregnancy-related bleeding causes",
+                "Fresh whole-blood transfusions",
+                "Obstetric management of labor/delivery",
+                "Transfer to a tertiary hospital and reassessment/management"
+            ],
+            "final_diagnosis": "Disseminated intravascular coagulation due to carpet viper (Echis ocellatus) envenomation",
+            "high_quality_distracting_final_diagnosis": "Placenta Previa",
+            "low_quality_distracting_final_diagnosis": "Placental Abruption",
+            "poor_quality_distracting_final_diagnosis": "HELLP syndrome"
+        },
+        {
+            "case_id": "case_1_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2301033",
+            "pub_date": "January 10, 2024",
+            "case_type": "Emergency Medicine",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Placenta previa",
+                "Placental abruption",
+                "Uterine rupture",
+                "Subchorionic hemorrhage",
+                "HELLP syndrome",
+                "Acute fatty liver of pregnancy",
+                "Pregnancy-associated thrombotic microangiopathy"  
+            ],
+            "next_steps": [
+                "Pursue expectant obstetric management",
+                "Perform vaginal examinations to monitor bleeding",
+                "Pursue abdominal or pelvic CT imaging",
+                "Withhold blood transfusion due to stable hemoglobin levels"
+            ],
+            "final_diagnosis": "Disseminated intravascular coagulation due to carpet viper (Echis ocellatus) envenomation",
+            "high_quality_distracting_final_diagnosis": "Placenta Previa",
+            "low_quality_distracting_final_diagnosis": "Placental Abruption",
+            "poor_quality_distracting_final_diagnosis": "HELLP syndrome"
+        },
+        {
+            "case_id": "case_2_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300974",
+            "pub_date": "January 17, 2024",
+            "case_type": "Oncology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Noninfectious inflammatory/vascular liver disease (sarcoidosis, Budd–Chiari, autoimmune hepatitis)",
+                "Tickborne infection (anaplasmosis/ehrlichiosis; other regional vectorborne illness)",
+                "BRAF–MEK inhibitor–related toxic effects",
+                "Severe bacterial infection",
+                "Acute viral infection (viral hepatitis; EBV/CMV/HSV; SARS-CoV-2, etc.)",
+                "Subacute infective endocarditis",
+                "Chronic/atypical infection (TB, nontuberculous mycobacteria, brucellosis, endemic mycoses)"
+            ],
+            "next_steps": [
+                "Esophagogastroduodenoscopy",
+                "Perform a liver biopsy",
+                "Start omeprazole + Counsel to avoid NSAIDs",
+                "Infectious disease testing"
+            ],
+            "final_diagnosis": "BRAF–MEK inhibitor–related toxic effects",
+            "high_quality_distracting_final_diagnosis": "Vectorborne Infections (specifically Anaplasmosis or Ehrlichiosis)",
+            "low_quality_distracting_final_diagnosis": "Arboviral Infections (specifically Zika, Dengue, or Chikungunya)",
+            "poor_quality_distracting_final_diagnosis": "Acute cholecystitis"
+        },
+        {
+            "case_id": "case_2_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300974",
+            "pub_date": "January 17, 2024",
+            "case_type": "Oncology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Noninfectious inflammatory/vascular liver disease (sarcoidosis, Budd–Chiari, autoimmune hepatitis)",
+                "Tickborne infection (anaplasmosis/ehrlichiosis; other regional vectorborne illness)",
+                "Severe bacterial infection",
+                "Acute viral infection (viral hepatitis; EBV/CMV/HSV; SARS-CoV-2, etc.)",
+                "Subacute infective endocarditis",
+                "Chronic/atypical infection (TB, nontuberculous mycobacteria, brucellosis, endemic mycoses)"
+            ],
+            "next_steps": [
+                "Restart dabrafenib and trametinib",
+                "Continue broad-spectrum antibiotics",
+                "Order CT scan with IV contrast",
+                "Pursue surgical consultation for cholecystectomy"
+            ],
+            "final_diagnosis": "BRAF–MEK inhibitor–related toxic effects",
+            "high_quality_distracting_final_diagnosis": "Vectorborne Infections (specifically Anaplasmosis or Ehrlichiosis)",
+            "low_quality_distracting_final_diagnosis": "Arboviral Infections (specifically Zika, Dengue, or Chikungunya)",
+            "poor_quality_distracting_final_diagnosis": "Acute cholecystitis"
+        },
+        {
+            "case_id": "case_3_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309725",
+            "pub_date": "January 24, 2024",
+            "case_type": "Pediatrics",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Serious abdominal process (e.g., intussusception, appendicitis, obstruction, pancreatitis/hepatobiliary disease)",
+                "CNS inflammatory spinal cord disorders (transverse myelitis, ADEM, acute flaccid myelitis)",
+                "Spinal muscular atrophy (SMA)",
+                "Infant botulism",
+                "Guillain–Barré syndrome",
+                "Invasive infection / meningitis (bacterial or HSV)",
+                "Structural/primary neurologic disease (stroke, hydrocephalus, mass, cerebral edema)",
+                "Other neuromuscular junction disorders (congenital/transient myasthenia; Lambert–Eaton)"
+            ],
+            "next_steps": [
+                "Obtain a stool specimen",
+                "Further clinical history from family",
+                "Administration of BabyBIG"
+            ],
+            "final_diagnosis": "Infant botulism",
+            "high_quality_distracting_final_diagnosis": "Guillain-Barré Syndrome",
+            "low_quality_distracting_final_diagnosis": "Meningitis",
+            "poor_quality_distracting_final_diagnosis": "Kawasaki disease"
+        },
+        {
+            "case_id": "case_3_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309725",
+            "pub_date": "January 24, 2024",
+            "case_type": "Pediatrics",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Serious abdominal process (e.g., intussusception, appendicitis, obstruction, pancreatitis/hepatobiliary disease)",
+                "CNS inflammatory spinal cord disorders (transverse myelitis, ADEM, acute flaccid myelitis)",
+                "Spinal muscular atrophy (SMA)",
+                "Guillain–Barré syndrome",
+                "Invasive infection / meningitis (bacterial or HSV)",
+                "Serious abdominal process (e.g., intussusception, appendicitis, obstruction, pancreatitis/hepatobiliary disease)",
+                "Structural/primary neurologic disease (stroke, hydrocephalus, mass, cerebral edema)",
+                "Other neuromuscular junction disorders (congenital/transient myasthenia; Lambert–Eaton)"
+            ],
+            "next_steps": [
+                "Continue broad-spectrum antimicrobials",
+                "Order repeat neuroimaging (e.g., MRI brain/spine with contrast)",
+                "Pursue metabolic or genetic workup (e.g., whole-exome sequencing, muscle biopsy)",
+                "Perform electromyography or nerve conduction studies",
+                "Administer neuromuscular-blocking agents or magnesium-containing medications"
+            ],
+            "final_diagnosis": "Infant botulism",
+            "high_quality_distracting_final_diagnosis": "Guillain-Barré Syndrome",
+            "low_quality_distracting_final_diagnosis": "Meningitis",
+            "poor_quality_distracting_final_diagnosis": "Kawasaki disease"
+        },
+        {
+            "case_id": "case_5_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312724",
+            "pub_date": "February 14, 2024",
+            "case_type": "Endocrinology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Streptococcal pharyngitis (or other bacterial tonsillitis)",
+                "Viral pharyngitis (including HSV pharyngotonsillitis)",
+                "Lemierre’s syndrome (septic internal jugular thrombophlebitis)",
+                "Coccidioidomycosis",
+                "Toxic adenoma / toxic nodular goiter",
+                "Rheumatologic/autoimmune inflammatory disease",
+                "Subacute thyroiditis",
+                "Graves’ disease"
+            ],
+            "next_steps": [
+                "Ordered a thyroid panel",
+                "Reflex free T4 + total T3 measurement (after suppressed TSH)",
+                "Bedside thyroid ultrasound assessment",
+                "Antithyroid antibody testing (TPO Ab, TSH-receptor Ab, TSI)"
+            ],
+            "final_diagnosis": "Subacute thyroiditis",
+            "high_quality_distracting_final_diagnosis": "Hyperthyroidism (specifically Graves’ Disease)",
+            "low_quality_distracting_final_diagnosis": "Medication-Induced Fever",
+            "poor_quality_distracting_final_diagnosis": "Hodgkin's Lymphoma"
+        },
+        {
+            "case_id": "case_5_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312724",
+            "pub_date": "February 14, 2024",
+            "case_type": "Endocrinology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Streptococcal pharyngitis (or other bacterial tonsillitis)",
+                "Viral pharyngitis (including HSV pharyngotonsillitis)",
+                "Lemierre’s syndrome (septic internal jugular thrombophlebitis)",
+                "Coccidioidomycosis",
+                "Toxic adenoma / toxic nodular goiter",
+                "Rheumatologic/autoimmune inflammatory disease",
+                "Graves’ disease"
+            ],
+            "next_steps": [
+                "Continue broad-spectrum antibiotics",
+                "Order a radioactive iodine uptake scan",
+                "Perform excisional lymph node biopsy",
+                "Pursue an extensive malignancy workup (PET-CT, bone marrow biopsy"
+            ],
+            "final_diagnosis": "Subacute thyroiditis",
+            "high_quality_distracting_final_diagnosis": "Hyperthyroidism (specifically Graves’ Disease)",
+            "low_quality_distracting_final_diagnosis": "Medication-Induced Fever",
+            "poor_quality_distracting_final_diagnosis": "Hodgkin's Lymphoma"
+        },
+        {
+            "case_id": "case_9_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312731",
+            "pub_date": "March 20, 2024",
+            "case_type": "Vascular Surgery",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Stress-induced cardiomyopathy (Takotsubo-like / sepsis-related cardiomyopathy)",
+                "Coronary occlusion / Acute coronary syndrome (including embolic MI from endocarditis)",
+                "Pulmonary embolism",
+                "Thoracic radiculopathy from spinal infection (e.g., spondylodiscitis, paravertebral infection)",
+                "Pneumonia / pulmonary infection (including pulmonary abscess in bacteremia)",
+                "Parasternal septic arthritis (e.g., sternoclavicular joint infection)",
+                "Staphylococcus aureus bacteremia and infectious aortic pseudoaneurysm"
+            ],
+            "next_steps": [
+                "Repeat CT Angiography of the Abdomen/Pelvis",
+                "Transesophageal echocardiography",
+                "Urgent definitive vascular intervention"
+            ],
+            "final_diagnosis": "Staphylococcus aureus bacteremia and infectious aortic pseudoaneurysm",
+            "high_quality_distracting_final_diagnosis": "Coronary Occlusion (Acute Coronary Syndrome or Myocardial Infarction)",
+            "low_quality_distracting_final_diagnosis": "Stress-Induced Cardiomyopathy (Takotsubo Cardiomyopathy)",
+            "poor_quality_distracting_final_diagnosis": "Tertiary syphillis"
+        },
+        {
+            "case_id": "case_9_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312731",
+            "pub_date": "March 20, 2024",
+            "case_type": "Vascular Surgery",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Stress-induced cardiomyopathy (Takotsubo-like / sepsis-related cardiomyopathy)",
+                "Coronary occlusion / Acute coronary syndrome (including embolic MI from endocarditis)",
+                "Pulmonary embolism",
+                "Thoracic radiculopathy from spinal infection (e.g., spondylodiscitis, paravertebral infection)",
+                "Pneumonia / pulmonary infection (including pulmonary abscess in bacteremia)",
+                "Parasternal septic arthritis (e.g., sternoclavicular joint infection)"
+            ],
+            "next_steps": [
+                "Pursue serial troponins and stress testing",
+                "Discontinue antibiotics",
+                "Biopsy or PET imaging",
+                "Defer transesophageal echocardiography"
+            ],
+            "final_diagnosis": "Staphylococcus aureus bacteremia and infectious aortic pseudoaneurysm",
+            "high_quality_distracting_final_diagnosis": "Coronary Occlusion (Acute Coronary Syndrome or Myocardial Infarction)",
+            "low_quality_distracting_final_diagnosis": "Stress-Induced Cardiomyopathy (Takotsubo Cardiomyopathy)",
+            "poor_quality_distracting_final_diagnosis": "Tertiary syphillis"
+        },
+        {
+            "case_id": "case_10_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312729",
+            "pub_date": "April 3, 2024",
+            "case_type": "Endocrinology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Insulin pseudoresistance",
+                "Physiologic / general pathophysiologic insulin resistance (obesity, stress/illness, organ failure, starvation)",
+                "Type B insulin resistance syndrome",
+                "Medication-induced insulin resistance (e.g., glucocorticoids, atypical antipsychotics, HIV antiretrovirals)",
+                "Endocrine hormone–excess syndromes",
+                "Lipodystrophic syndrome (generalized/partial; genetic/acquired)",
+                "Insulin antibodies (anti-insulin)"
+            ],
+            "next_steps": [
+                "CT abdomen/pelvis (non-contrast)",
+                "Biopsy of splenic lesion",
+                "Insulin-receptor antibody testing"
+            ],
+            "final_diagnosis": "Type B insulin resistance syndrome",
+            "high_quality_distracting_final_diagnosis": "Lipodystrophy",
+            "low_quality_distracting_final_diagnosis": "Cushing’s Syndrome",
+            "poor_quality_distracting_final_diagnosis": "Pancreatic adenocarcinoma"
+        },
+        {
+            "case_id": "case_10_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312729",
+            "pub_date": "April 3, 2024",
+            "case_type": "Endocrinology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Insulin pseudoresistance",
+                "Physiologic / general pathophysiologic insulin resistance (obesity, stress/illness, organ failure, starvation)",
+                "Medication-induced insulin resistance (e.g., glucocorticoids, atypical antipsychotics, HIV antiretrovirals)",
+                "Endocrine hormone–excess syndromes",
+                "Lipodystrophic syndrome (generalized/partial; genetic/acquired)",
+                "Insulin antibodies (anti-insulin)"
+            ],
+            "next_steps": [
+                "Pursue malignancy workup (e.g., PET-CT)",
+                "Attribute hyperglycemia to medication nonadherence",
+                "Performing GI procedures for abdominal pain",
+                "Stop insulin"
+            ],
+            "final_diagnosis": "Type B insulin resistance syndrome",
+            "high_quality_distracting_final_diagnosis": "Lipodystrophy",
+            "low_quality_distracting_final_diagnosis": "Cushing’s Syndrome",
+            "poor_quality_distracting_final_diagnosis": "Pancreatic adenocarcinoma"
+        },
+        {
+            "case_id": "case_11_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312725",
+            "pub_date": "April 10, 2024",
+            "case_type": "Rheumatology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Structural CNS or spine disease (myelopathy/radiculopathy)",
+                "ANCA-associated vasculitis (EGPA, GPA, MPA)",
+                "Toxic/metabolic/nutritional neuropathy (including vitamin deficiency)",
+                "Normal-pressure hydrocephalus",
+                "Polyarteritis nodosa",
+                "Demyelinating neuropathy (e.g., CIDP/AIDP spectrum)",
+                "Rheumatoid arthritis with vasculitis causing a confluent mononeuritis multiplex",
+                "Delirium from intercurrent illness/medications (UTI + tramadol)",
+                "Cryoglobulinemic vasculitis",
+                "Nonsystemic vasculitic neuropathy"
+            ],
+            "next_steps": [
+                "Send an autoimmune/vasculitis laboratory panel (including complements + cryoglobulins + RA serologies)",
+                "Perform a sural nerve biopsy with a concurrent muscle biopsy",
+                "MRI of the cervical and lumbar spine"
+            ],
+            "final_diagnosis": "Rheumatoid arthritis with vasculitis causing a confluent mononeuritis multiplex",
+            "high_quality_distracting_final_diagnosis": "Cryoglobulinemic Vasculitis",
+            "low_quality_distracting_final_diagnosis": "Eosinophilic Granulomatosis with Polyangiitis",
+            "poor_quality_distracting_final_diagnosis": "Polymyalgia Rheumatica"
+        },
+        {
+            "case_id": "case_11_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312725",
+            "pub_date": "April 10, 2024",
+            "case_type": "Rheumatology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Structural CNS or spine disease (myelopathy/radiculopathy)",
+                "ANCA-associated vasculitis (EGPA, GPA, MPA)",
+                "Toxic/metabolic/nutritional neuropathy (including vitamin deficiency)",
+                "Normal-pressure hydrocephalus",
+                "Polyarteritis nodosa",
+                "Demyelinating neuropathy (e.g., CIDP/AIDP spectrum)",
+                "Delirium from intercurrent illness/medications (UTI + tramadol)",
+                "Cryoglobulinemic vasculitis",
+                "Nonsystemic vasculitic neuropathy"
+            ],
+            "next_steps": [
+                "Pursuing central nervous system testing (brain MRI, EEG, lumbar puncture)",
+                "Discharging the patient once infection and electrolytes are corrected",
+                "Order repeat brain imaging / neurosurgery consult"
+            ],
+            "final_diagnosis": "Rheumatoid arthritis with vasculitis causing a confluent mononeuritis multiplex",
+            "high_quality_distracting_final_diagnosis": "Cryoglobulinemic Vasculitis",
+            "low_quality_distracting_final_diagnosis": "Eosinophilic Granulomatosis with Polyangiitis",
+            "poor_quality_distracting_final_diagnosis": "Polymyalgia Rheumatica"
+        },
+        {
+            "case_id": "case_15_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312736",
+            "pub_date": "May 15, 2024",
+            "case_type": "Dermatology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Kaposi’s varicelliform eruption due to HSV",
+                "Angioimmunoblastic T-cell Lymphoma",
+                "Infection-related systemic illness presenting with erythroderma (e.g., secondary syphilis, tuberculosis)",
+                "Stevens–Johnson syndrome (SJS) / toxic epidermal necrolysis spectrum",
+                "Drug-induced erythroderma (erythrodermic drug eruption)",
+                "Flare or evolution of underlying inflammatory dermatoses (eczema or psoriasis)"
+            ],
+            "next_steps": [
+                "HSV Confirmation Testing on Skin Sample",
+                "HTLV-1 serologic testing",
+                "Biopsy of an enlarged left inguinal lymph node",
+                "Peripheral-blood flow cytometry"
+            ],
+            "final_diagnosis": "Angioimmunoblastic T-cell Lymphoma",
+            "high_quality_distracting_final_diagnosis": "Exacerbation of underlying inflammatory skin conditions (Eczema or Psoriasis)",
+            "low_quality_distracting_final_diagnosis": "Stevens-Johnson Syndrome",
+            "poor_quality_distracting_final_diagnosis": "Bullous Pemphigoid"
+        },
+        {
+            "case_id": "case_15_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312736",
+            "pub_date": "May 15, 2024",
+            "case_type": "Dermatology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Kaposi’s varicelliform eruption due to HSV",
+                "Infection-related systemic illness presenting with erythroderma (e.g., secondary syphilis, tuberculosis)",
+                "Stevens–Johnson syndrome (SJS) / toxic epidermal necrolysis spectrum",
+                "Drug-induced erythroderma (erythrodermic drug eruption)",
+                "Flare or evolution of underlying inflammatory dermatoses (eczema or psoriasis)"
+            ],
+            "next_steps": [
+                "Continue glucocorticoid treatment",
+                "Perform deeper skin biopsy",
+                "Escalation to broad-spectrum antibiotics"
+            ],
+            "final_diagnosis": "Angioimmunoblastic T-cell Lymphoma",
+            "high_quality_distracting_final_diagnosis": "Exacerbation of underlying inflammatory skin conditions (Eczema or Psoriasis)",
+            "low_quality_distracting_final_diagnosis": "Stevens-Johnson Syndrome",
+            "poor_quality_distracting_final_diagnosis": "Bullous Pemphigoid"
+        },
+        {
+            "case_id": "case_23_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402488",
+            "pub_date": "July 24, 2024",
+            "case_type": "Neurology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Transient focal neurologic episodes",
+                "Ischemic cerebrovascular event (TIA / small subacute infarct)",
+                "Paraneoplastic encephalomyelitis due to small-cell lung carcinoma and concurrent cerebral amyloid angiopathy",
+                "Cerebral amyloid angiopathy–related inflammation",
+                "Infectious encephalitis (HSV)",
+                "Central nervous system vasculitis",
+                "Neurodegenerative disease (Alzheimer’s disease)",
+                "Autoimmune limbic encephalitis (paraneoplastic limbic encephalitis; anti-Hu/ANNA-1)"
+            ],
+            "next_steps": [
+                "CT of the Chest/Abdomen/Pelvis with IV Contrast",
+                "Antiseizure Therapy with Lacosamide",
+                "PET-CT"
+            ],
+            "final_diagnosis": "Paraneoplastic encephalomyelitis due to small-cell lung carcinoma and concurrent cerebral amyloid angiopathy",
+            "high_quality_distracting_final_diagnosis": "Autoimmune Encephalitis",
+            "low_quality_distracting_final_diagnosis": "Herpes Simplex Virus (HSV) Encephalitis",
+            "poor_quality_distracting_final_diagnosis": "Toxic Metabolic Encephalopathy"
+        },
+        {
+            "case_id": "case_23_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402488",
+            "pub_date": "July 24, 2024",
+            "case_type": "Neurology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Transient focal neurologic episodes",
+                "Ischemic cerebrovascular event (TIA / small subacute infarct)",
+                "Infectious encephalitis (HSV)",
+                "Central nervous system vasculitis",
+                "Neurodegenerative disease (Alzheimer’s disease)"
+            ],
+            "next_steps": [
+                "Antiplatelet Escalation",
+                "Prolonged Antivirals",
+                "Treat patient with Antidepressants/Antipsychotics",
+                "Repeating multiple MRIs of the brain",
+                "Perform cerebral angiography"
+            ],
+            "final_diagnosis": "Paraneoplastic encephalomyelitis due to small-cell lung carcinoma and concurrent cerebral amyloid angiopathy",
+            "high_quality_distracting_final_diagnosis": "Autoimmune Encephalitis",
+            "low_quality_distracting_final_diagnosis": "Herpes Simplex Virus (HSV) Encephalitis",
+            "poor_quality_distracting_final_diagnosis": "Toxic Metabolic Encephalopathy"
+        },
+        {
+            "case_id": "case_24_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312735",
+            "pub_date": "August 7, 2024",
+            "case_type": "Psychiatry",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Postpartum obsessive–compulsive disorder",
+                "Postpartum depression",
+                "Postpartum psychosis",
+                "Generalized anxiety disorder",
+                "Medical/secondary causes of postpartum psychiatric symptoms",
+                "Bipolar-spectrum illness / postpartum mania"
+            ],
+            "next_steps": [
+                "Discontinue Sertraline and Start Fluoxetine",
+                "Continue PRN Lorazepam",
+                "Start Olanzapine",
+                "Structured Postpartum Psychiatric Symptom Assessment"
+            ],
+            "final_diagnosis": "Postpartum obsessive–compulsive disorder",
+            "high_quality_distracting_final_diagnosis": "Postpartum Major Depressive Disorder",
+            "low_quality_distracting_final_diagnosis": "Coexisting Medical Conditions (e.g., Thyroid disorders, Anemia, Encephalitis)",
+            "poor_quality_distracting_final_diagnosis": "Schizophrenia"
+        },
+        {
+            "case_id": "case_24_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312735",
+            "pub_date": "August 7, 2024",
+            "case_type": "Psychiatry",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Postpartum depression",
+                "Postpartum psychosis",
+                "Generalized anxiety disorder",
+                "Medical/secondary causes of postpartum psychiatric symptoms",
+                "Bipolar-spectrum illness / postpartum mania"
+            ],
+            "next_steps": [
+                "Initiate involuntary inpatient psychiatric hospitalization",
+                "Report the patient to child protective services",
+                "Discontinue SSRIs",
+                "Order neurologic testing (e.g., brain MRI, EEG, lumbar puncture)",
+                "Escalate benzodiazepine use as primary long-term treatment"
+            ],
+            "final_diagnosis": "Postpartum obsessive–compulsive disorder",
+            "high_quality_distracting_final_diagnosis": "Postpartum Major Depressive Disorder",
+            "low_quality_distracting_final_diagnosis": "Coexisting Medical Conditions (e.g., Thyroid disorders, Anemia, Encephalitis)",
+            "poor_quality_distracting_final_diagnosis": "Schizophrenia"
+        },
+        {
+            "case_id": "case_25_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309726",
+            "pub_date": "August 14, 2024",
+            "case_type": "Ophthalmology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Autoimmune demyelinating optic neuritis (MOGAD/NMOSD/MS)",
+                "Nutritional optic neuropathy due to multiple nutritional deficits (vitamin A, copper, zinc)",
+                "Genetic optic neuropathy (OPA1 autosomal dominant optic atrophy",
+                "Toxic optic neuropathy (e.g., linezolid, ethambutol, or halogenated hydroxyquinolines)",
+                "Vitamin B12 deficiency optic neuropathy"
+            ],
+            "next_steps": [
+                "Serologic + Cerebrospinal Fluid Testing",
+                "Blood Testing for Nutritional Deficiencies",
+                "Registration with the Massachusetts Commission for the Blind + Low-Vision Services"
+            ],
+            "final_diagnosis": "Nutritional optic neuropathy due to multiple nutritional deficits (vitamin A, copper, zinc)",
+            "high_quality_distracting_final_diagnosis": "Leber’s Hereditary Optic Neuropathy",
+            "low_quality_distracting_final_diagnosis": "Autoimmune Optic Neuropathy (e.g., MOGAD, NMOSD)",
+            "poor_quality_distracting_final_diagnosis": "Retinoblastoma"
+        },
+        {
+            "case_id": "case_25_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309726",
+            "pub_date": "August 14, 2024",
+            "case_type": "Ophthalmology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Autoimmune demyelinating optic neuritis (MOGAD/NMOSD/MS)",
+                "Genetic optic neuropathy (OPA1 autosomal dominant optic atrophy",
+                "Toxic optic neuropathy (e.g., linezolid, ethambutol, or halogenated hydroxyquinolines)",
+                "Vitamin B12 deficiency optic neuropathy"
+            ],
+            "next_steps": [
+                "Start high-dose corticosteroid therapy",
+                "Attribute vision loss to autism-related behavioral or functional causes",
+                "Pursue genetic testing",
+                "Perform lumbar puncture",
+                "Perform optic nerve biopsy",
+                "Perform advanced neuroimaging studies (MR spectroscopy)"
+            ],
+            "final_diagnosis": "Nutritional optic neuropathy due to multiple nutritional deficits",
+            "high_quality_distracting_final_diagnosis": "Leber’s Hereditary Optic Neuropathy",
+            "low_quality_distracting_final_diagnosis": "Autoimmune Optic Neuropathy (e.g., MOGAD, NMOSD)",
+            "poor_quality_distracting_final_diagnosis": "Retinoblastoma"
+        },
+        {
+            "case_id": "case_29_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402492",
+            "pub_date": "September 18, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Legionella infection complicated by rhabdomyolysis",
+                "Streptococcal pneumonia with rhabdomyolysis",
+                "Influenza",
+                "Supplement-/toxin-associated rhabdomyolysis (e.g., creatine, ephedra, and caffeine)",
+                "Inflammatory myopathy (dermatomyositis, antisynthetase syndrome, polymyositis, immune-mediated necrotizing myopathy)",
+                "Aspergillus infection",
+                "HIV infection with pneumonia and rhabdomyolysis",
+                "Nemaline myopathy"
+            ],
+            "next_steps": [
+                "Nephrology Consult + Emergency Hemodialysis Catheter Placement",
+                "Transthoracic Echocardiogram + Repeat TTE",
+                "Legionella Urinary Antigen Test",
+                "Repeat chest imaging if clinical deterioration occurs"
+            ],
+            "final_diagnosis": "Legionella infection complicated by rhabdomyolysis",
+            "high_quality_distracting_final_diagnosis": "Streptococcal Infection",
+            "low_quality_distracting_final_diagnosis": "Nemaline Myopathy",
+            "poor_quality_distracting_final_diagnosis": "Leptospirosis"
+        },
+        {
+            "case_id": "case_29_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402492",
+            "pub_date": "September 18, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Streptococcal pneumonia with rhabdomyolysis",
+                "Influenza",
+                "Supplement-/toxin-associated rhabdomyolysis (e.g., creatine, ephedra, and caffeine)",
+                "Inflammatory myopathy (dermatomyositis, antisynthetase syndrome, polymyositis, immune-mediated necrotizing myopathy)",
+                "Aspergillus infection",
+                "HIV infection with pneumonia and rhabdomyolysis",
+                "Nemaline myopathy"
+            ],
+            "next_steps": [
+                "Defer empiric antibiotics until a pathogen is definitively identified",
+                "Treat patient with beta-lactam monotherapy",
+                "Pursue lumbar puncture",
+                "Order a kidney biopsy",
+                "Attribute the elevated creatine kinase primarily to supplement use"
+            ],
+            "final_diagnosis": "Legionella infection complicated by rhabdomyolysis",
+            "high_quality_distracting_final_diagnosis": "Streptococcal Infection",
+            "low_quality_distracting_final_diagnosis": "Nemaline Myopathy",
+            "poor_quality_distracting_final_diagnosis": "Leptospirosis"
+        },
+        {
+            "case_id": "case_30_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402486",
+            "pub_date": "September 25, 2024",
+            "case_type": "Rheumatology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "IgG4-related disease",
+                "Lymphoma (primary bone lymphoma; disseminated non-Hodgkin lymphoma; Hodgkin lymphoma)",
+                "Castleman disease",
+                "Erdheim–Chester disease",
+                "Sjögren’s syndrome",
+                "Rosai–Dorfman–Destombes disease",
+                "SAPHO syndrome and chronic recurrent multifocal osteomyelitis"
+            ],
+            "next_steps": [
+                "Pathology Re-review with Additional Slides/Immunostains",
+                "Flow cytometry on biopsy material",
+                "Cytogenetic analysis to evaluate for cytogenetic abnormalities"
+            ],
+            "final_diagnosis": "Rosai–Dorfman–Destombes disease",
+            "high_quality_distracting_final_diagnosis": "Erdheim–Chester Disease",
+            "low_quality_distracting_final_diagnosis": "Castleman’s Disease",
+            "poor_quality_distracting_final_diagnosis": "Multiple Myeloma"
+        },
+        {
+            "case_id": "case_30_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402486",
+            "pub_date": "September 25, 2024",
+            "case_type": "Rheumatology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "IgG4-related disease",
+                "Lymphoma (primary bone lymphoma; disseminated non-Hodgkin lymphoma; Hodgkin lymphoma)",
+                "Castleman disease",
+                "Erdheim–Chester disease",
+                "Sjögren’s syndrome",
+                "SAPHO syndrome and chronic recurrent multifocal osteomyelitis"
+            ],
+            "next_steps": [
+                "Provide high-dose glucocorticoids",
+                "Pursue metastatic workup (repeated CT scans, tumor-marker panels)",
+                "Repeat PET-CT scans",
+                "Proceed with surgical excision or orthopedic intervention for multiple bone lesions"
+            ],
+            "final_diagnosis": "Rosai–Dorfman–Destombes disease",
+            "high_quality_distracting_final_diagnosis": "Erdheim–Chester Disease",
+            "low_quality_distracting_final_diagnosis": "Castleman’s Disease",
+            "poor_quality_distracting_final_diagnosis": "Multiple Myeloma"
+        },
+        {
+            "case_id": "case_32_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312734",
+            "pub_date": "October 16, 2024",
+            "case_type": "Neurology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Myasthenia gravis",
+                "Guillain–Barré syndrome",
+                "Transient ischemic attack",
+                "Amyotrophic lateral sclerosis",
+                "Lambert–Eaton myasthenic syndrome",
+                "Diphtheritic neuropathy",
+                "Leptomeningeal disease",
+                "Primary muscle disease (myopathy)"
+            ],
+            "next_steps": [
+                "Repetitive Nerve Stimulation Studies",
+                "Routine Nerve Conduction Studies and Needle Electromyography",
+                "Cerebrospinal Fluid Analysis via Lumbar Puncture",
+                "Noninvasive Ventilatory Support/ICU-Level Respiratory Stabilization"
+            ],
+            "final_diagnosis": "Myasthenia gravis",
+            "high_quality_distracting_final_diagnosis": "Guillain-Barré Syndrome",
+            "low_quality_distracting_final_diagnosis": "Leptomeningeal Disease (Carcinomatous Meningitis)",
+            "poor_quality_distracting_final_diagnosis": "Recurrent ischemic strokes"
+        },
+        {
+            "case_id": "case_32_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312734",
+            "pub_date": "October 16, 2024",
+            "case_type": "Neurology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Guillain–Barré syndrome",
+                "Transient ischemic attack",
+                "Amyotrophic lateral sclerosis",
+                "Lambert–Eaton myasthenic syndrome",
+                "Diphtheritic neuropathy",
+                "Leptomeningeal disease",
+                "Primary muscle disease (myopathy)"
+            ],
+            "next_steps": [
+                "Start high-dose pyridostigmine",
+                "Ordering repeated CT angiography",
+                "Pursuing bronchoscopy or lung biopsy",
+                "Discharging the patient after transient improvement"
+            ],
+            "final_diagnosis": "Myasthenia gravis",
+            "high_quality_distracting_final_diagnosis": "Guillain-Barré Syndrome",
+            "low_quality_distracting_final_diagnosis": "Leptomeningeal Disease (Carcinomatous Meningitis)",
+            "poor_quality_distracting_final_diagnosis": "Recurrent ischemic strokes"
+        },
+        {
+            "case_id": "case_33_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402496",
+            "pub_date": "October 23, 2024",
+            "case_type": "Neurology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Tumefactive multiple sclerosis",
+                "Brain abscess due to infection with Listeria monocytogenes",
+                "Primary CNS lymphoma",
+                "Vascular lesion mimicking mass (e.g., ischemic stroke ± hemorrhagic conversion / subacute infarct)",
+                "Metastatic cancer to the brain"
+            ],
+            "next_steps": [
+                "Perform a Gram stain on aspirated material",
+                "Permanent-section pathology review + immunohistochemistry",
+                "Order a broad microbiology workup",
+                "Infectious Disease consultation + start broad empiric antibiotics"
+            ],
+            "final_diagnosis": "Brain abscess due to infection with Listeria monocytogenes",
+            "high_quality_distracting_final_diagnosis": "CNS Lymphoma",
+            "low_quality_distracting_final_diagnosis": "Vascular Disease (e.g., Ischemic Stroke)",
+            "poor_quality_distracting_final_diagnosis": "Glioblastoma"
+        },
+        {
+            "case_id": "case_33_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402496",
+            "pub_date": "October 23, 2024",
+            "case_type": "Neurology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Tumefactive multiple sclerosis",
+                "Primary CNS lymphoma",
+                "Vascular lesion mimicking mass (e.g., ischemic stroke ± hemorrhagic conversion / subacute infarct)",
+                "Metastatic cancer to the brain"  
+            ],
+            "next_steps": [
+                "Continue high-dose glucocorticoids",
+                "Discontinue empiric antibiotics",
+                "Perform lumbar puncture",
+                "Order malignancy workup (PET scan, repeat CTs)",
+                "Begin chemotherapy or radiation therapy"
+            ],
+            "final_diagnosis": "Brain abscess due to infection with Listeria monocytogenes",
+            "high_quality_distracting_final_diagnosis": "CNS Lymphoma",
+            "low_quality_distracting_final_diagnosis": "Vascular Disease (e.g., Ischemic Stroke)",
+            "poor_quality_distracting_final_diagnosis": "Glioblastoma"
+        },
+        {
+            "case_id": "case_34_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402505",
+            "pub_date": "October 30, 2024",
+            "case_type": "Cardiology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Amiodarone-induced thyrotoxicosis",
+                "Supraventricular tachycardia with aberrancy",
+                "Pulmonary embolism",
+                "Postmyocardial infarction (scar-related) reentrant ventricular tachycardia",
+                "Decompensated heart failure",
+                "Acute coronary syndrome",
+                "Prosthetic mitral valve dysfunction",
+                "Anemia"
+            ],
+            "next_steps": [
+                "Transfer the patient from outpatient clinic to the hospital",
+                "Obtain an ECG",
+                "Interrogate the ICD",
+                "If VT recurs, use monitored antiarrhythmic therapy (e.g., lidocaine, amiodarone)"
+            ],
+            "final_diagnosis": "Postmyocardial infarction (scar-related) reentrant ventricular tachycardia",
+            "high_quality_distracting_final_diagnosis": "Amiodarone-induced Thyrotoxicosis",
+            "low_quality_distracting_final_diagnosis": "Pulmonary Embolism",
+            "poor_quality_distracting_final_diagnosis": "ADHF"
+        },
+        {
+            "case_id": "case_34_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402505",
+            "pub_date": "October 30, 2024",
+            "case_type": "Cardiology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Amiodarone-induced thyrotoxicosis",
+                "Supraventricular tachycardia with aberrancy",
+                "Pulmonary embolism",
+                "Decompensated heart failure",
+                "Acute coronary syndrome",
+                "Prosthetic mitral valve dysfunction",
+                "Anemia"
+            ],
+            "next_steps": [
+                "Treat with intravenous fluids alone",
+                "Ordering CT pulmonary angiography",
+                "Administering AV-nodal–blocking agents (e.g., diltiazem or verapamil)",
+                "Delaying hospital transfer because the patient is 'awake and talking'"
+            ],
+            "final_diagnosis": "Postmyocardial infarction (scar-related) reentrant ventricular tachycardia",
+            "high_quality_distracting_final_diagnosis": "Amiodarone-induced Thyrotoxicosis",
+            "low_quality_distracting_final_diagnosis": "Pulmonary Embolism",
+            "poor_quality_distracting_final_diagnosis": "ADHF"
+        },
+        {
+            "case_id": "case_35_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402487",
+            "pub_date": "November 13, 2024",
+            "case_type": "Pediatrics",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Meconium aspiration syndrome",
+                "Congenital diaphragmatic hernia",
+                "Congenital pulmonary airway malformation",
+                "Intralobar bronchopulmonary sequestration",
+                "Multiple bronchogenic cysts",
+                "Congenital lobar overinflation"
+            ],
+            "next_steps": [
+                "DICER1 mutation testing",
+                "Chest ultrasonography with color Doppler",
+                "Genetics Consultation with Chromosomal Microarray"
+            ],
+            "final_diagnosis": "Intralobar bronchopulmonary sequestration",
+            "high_quality_distracting_final_diagnosis": "Congenital Pulmonary Airway Malformation (CPAM) — Type 4",
+            "low_quality_distracting_final_diagnosis": "Congenital Diaphragmatic Hernia",
+            "poor_quality_distracting_final_diagnosis": "Meconium aspiration syndrome"
+        },
+        {
+            "case_id": "case_35_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402487",
+            "pub_date": "November 13, 2024",
+            "case_type": "Pediatrics",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Meconium aspiration syndrome",
+                "Congenital diaphragmatic hernia",
+                "Congenital pulmonary airway malformation",
+                "Multiple bronchogenic cysts",
+                "Congenital lobar overinflation"
+            ],
+            "next_steps": [
+                "Perform bronchoscopy",
+                "Perform lung biopsy",
+                "Escalate broad-spectrum antibiotics",
+                "Order serial daily chest radiographs"
+            ],
+            "final_diagnosis": "Intralobar bronchopulmonary sequestration",
+            "high_quality_distracting_final_diagnosis": "Congenital Pulmonary Airway Malformation (CPAM) — Type 4",
+            "low_quality_distracting_final_diagnosis": "Congenital Diaphragmatic Hernia",
+            "poor_quality_distracting_final_diagnosis": "Meconium aspiration syndrome"
+        },
+        {
+            "case_id": "case_37_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402500",
+            "pub_date": "November 27, 2024",
+            "case_type": "Psychiatry",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Postictal psychosis",
+                "Nonconvulsive status epilepticus",
+                "Interictal psychosis",
+                "Ictal psychosis",
+                "Functional or Nonepileptic Seizures",
+                "Postictal delirium/agitation"
+            ],
+            "next_steps": [
+                "Collateral history from family",
+                "Continued EEG review/monitoring",
+                "Safety-focused management of agitation/psychosis",
+                "Re-stabilization/adjustment of antiseizure therapy",
+                "Further pre-surgical epilepsy testing in follow-up"
+            ],
+            "final_diagnosis": "Postictal psychosis",
+            "high_quality_distracting_final_diagnosis": "Functional (Nonepileptic) Seizures",
+            "low_quality_distracting_final_diagnosis": "Nonconvulsive Status Epilepticus",
+            "poor_quality_distracting_final_diagnosis": "Schizophrenia"
+        },
+        {
+            "case_id": "case_37_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402500",
+            "pub_date": "November 27, 2024",
+            "case_type": "Psychiatry",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Nonconvulsive status epilepticus",
+                "Interictal psychosis",
+                "Ictal psychosis",
+                "Functional or Nonepileptic Seizures",
+                "Postictal delirium/agitation"
+            ],
+            "next_steps": [
+                "Discontinue carbamazepine/levetiracetam",
+                "Escalate to autoimmune, paraneoplastic, or infectious encephalitis testing",
+                "Discharge early once seizures stop"
+            ],
+            "final_diagnosis": "Postictal psychosis",
+            "high_quality_distracting_final_diagnosis": "Functional (Nonepileptic) Seizures",
+            "low_quality_distracting_final_diagnosis": "Nonconvulsive Status Epilepticus",
+            "poor_quality_distracting_final_diagnosis": "Schizophrenia"
+        },
+        {
+            "case_id": "case_38_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2100279",
+            "pub_date": "December 4, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Infective endocarditis with systemic septic embolization",
+                "Meningoencephalitis",
+                "Disseminated intravascular coagulation",
+                "Libman–Sacks endocarditis",
+                "Hemolytic–uremic syndrome",
+                "HELLP syndrome",
+                "Tickborne infection with thrombocytopenia"
+            ],
+            "next_steps": [
+                "Transthoracic echocardiography",
+                "Blood-culture organism identification via MALDI-TOF",
+                "Catheter-based Cerebral Digital Subtraction Angiography",
+                "Transesophageal echocardiography"
+            ],
+            "final_diagnosis": "Infective endocarditis with systemic septic embolization",
+            "high_quality_distracting_final_diagnosis": "Systemic Lupus Erythematosus (Libman-Sacks Endocarditis)",
+            "low_quality_distracting_final_diagnosis": "Carotid Atherosclerosis",
+            "poor_quality_distracting_final_diagnosis": "Thrombotic Thrombocytopenic Purpora"
+        },
+        {
+            "case_id": "case_38_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2100279",
+            "pub_date": "December 4, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Meningoencephalitis",
+                "Disseminated intravascular coagulation",
+                "Libman–Sacks endocarditis",
+                "Hemolytic–uremic syndrome",
+                "HELLP syndrome",
+                "Tickborne infection with thrombocytopenia"
+            ],
+            "next_steps": [
+                "Start systemic anticoagulation",
+                "Start autoimmune or malignancy workups (e.g., PET-CT, bone marrow biopsy)",
+                "Administer large-volume intravenous fluids"
+            ],
+            "final_diagnosis": "Infective endocarditis with systemic septic embolization",
+            "high_quality_distracting_final_diagnosis": "Systemic Lupus Erythematosus (Libman-Sacks Endocarditis)",
+            "low_quality_distracting_final_diagnosis": "Carotid Atherosclerosis",
+            "poor_quality_distracting_final_diagnosis": "Thrombotic Thrombocytopenic Purpora"
+        },
+        {
+            "case_id": "case_19_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412528",
+            "pub_date": "July 9, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Powassan virus encephalitis", 
+                "Recurrent or leptomeningeal diffuse large B-cell lymphoma", 
+                "JC-virus-related cerebellar disease (PML or granule-cell neuronopathy)", 
+                "Varicella-zoster virus cerebellitis without rash", 
+                "Listeria monocytogenes rhombencephalitis", 
+                "Lyme neuroborreliosis", 
+                "Autoimmune or paraneoplastic cerebellitis (e.g., anti-DNER, KLHL11, anti-Yo)"
+            ],
+            "next_steps": [
+                "Lumbar puncture with an expanded CSF panel", 
+                "Serial brain MRI", 
+                "Electromyography/nerve-conduction studies"
+            ],
+            "final_diagnosis": "Powassan virus encephalitis",
+            "high_quality_distracting_final_diagnosis": "JC virus-related disease",
+            "low_quality_distracting_final_diagnosis": "Recurrent CNS diffuse large B-cell lymphoma",
+            "poor_quality_distracting_final_diagnosis": "Migraine with aura"
+        },
+        {
+            "case_id": "case_19_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412528",
+            "pub_date": "July 9, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [ 
+                "Recurrent or leptomeningeal diffuse large B-cell lymphoma", 
+                "JC-virus-related cerebellar disease (PML or granule-cell neuronopathy)", 
+                "Varicella-zoster virus cerebellitis without rash", 
+                "Listeria monocytogenes rhombencephalitis", 
+                "Lyme neuroborreliosis", 
+                "Autoimmune or paraneoplastic cerebellitis (e.g., anti-DNER, KLHL11, anti-Yo)"
+            ],
+            "next_steps": [
+                "Refer for outpatient vestibular physical therapy", 
+                "Schedule a stereotactic cerebellar biopsy", 
+                "Order daily CT scans of the head to monitor progression", 
+                "Empirically escalate steroids to pulse-dose methylprednisolone"
+            ],
+            "final_diagnosis": "Powassan virus encephalitis",
+            "high_quality_distracting_final_diagnosis": "JC virus-related disease",
+            "low_quality_distracting_final_diagnosis": "Recurrent CNS diffuse large B-cell lymphoma",
+            "poor_quality_distracting_final_diagnosis": "Migraine with aura"
+        },
+        {
+            "case_id": "case_18_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300897",
+            "pub_date": "June 25, 2025",
+            "case_type": "Hematology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Infection (Tuberculosis, Lyme Disease, or Bacterial Infection)", 
+                "Cancer (Lymphoma or Metastatic Cancer)", 
+                "Erdheim-Chester Disease",
+                "Inflammatory Disease (Rheumatoid Vasculitis, Behçet's Disease)", 
+                "IgG4-Related Disease"
+            ],
+            "next_steps": [
+                "Whole-body 18F-FDG PET-CT",
+                "Targeted image-guided core biopsy of retro-peritoneal lesion",
+                "Endocrine evaluation with water-deprivation test",
+                "IgG subclass quantification"
+            ],
+            "final_diagnosis": "Erdheim-Chester disease",
+            "high_quality_distracting_final_diagnosis": "IgG4-related disease",
+            "low_quality_distracting_final_diagnosis": "Behçet's syndrome-associated vasculitis",
+            "poor_quality_distracting_final_diagnosis": "Amyloidosis"
+        },
+        {
+            "case_id": "case_18_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300897",
+            "pub_date": "June 25, 2025",
+            "case_type": "Hematology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [ 
+                "Infection (Tuberculosis, Lyme Disease, or Bacterial Infection)", 
+                "Cancer (Lymphoma or Metastatic Cancer)", 
+                "Inflammatory Disease (Rheumatoid Vasculitis, Behçet's Disease)", 
+                "IgG4-Related Disease"
+            ],
+            "next_steps": [
+                "Begin high-dose corticosteroids",
+                "Empirically start broad-spectrum intravenous antibiotics",
+                "Request bone-marrow biopsy",
+                "Order a routine autoimmune panel",
+                "Prescribe methotrexate or another immunosuppressive agent"
+            ],
+            "final_diagnosis": "Erdheim-Chester disease",
+            "high_quality_distracting_final_diagnosis": "IgG4-related disease",
+            "low_quality_distracting_final_diagnosis": "Behçet's syndrome-associated vasculitis",
+            "poor_quality_distracting_final_diagnosis": "Amyloidosis"
+        },
+        {
+            "case_id": "case_15_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412526",
+            "pub_date": "May 28, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Severe community-acquired pneumonia", 
+                "Myeloproliferative disorder with secondary invasive fungal infection", 
+                "Pulmonary-renal syndrome (diffuse alveolar hemorrhage from vasculitis/autoimmunity)", 
+                "Hantavirus cardiopulmonary syndrome"
+            ],
+            "next_steps": [
+                "High-resolution, contrast-free chest CT",
+                "Point-of-care ultrasound plus pulmonary-artery catheterization",
+                "Targeted hantavirus testing (ELISA IgM ± IgG + PCR/NAAT)"
+            ],
+            "final_diagnosis": "Hantavirus cardiopulmonary syndrome",
+            "high_quality_distracting_final_diagnosis": "Myeloproliferative disorder with secondary invasive fungal infection",
+            "low_quality_distracting_final_diagnosis": "Community-acquired pneumonia",
+            "poor_quality_distracting_final_diagnosis": "Invasive aspergillosis"
+        },
+        {
+            "case_id": "case_15_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412526",
+            "pub_date": "May 28, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [ 
+                "Severe community-acquired pneumonia", 
+                "Myeloproliferative disorder with secondary invasive fungal infection", 
+                "Pulmonary-renal syndrome (diffuse alveolar hemorrhage from vasculitis/autoimmunity)"
+            ],
+            "next_steps": [
+                "Order a contrast-enhanced CT pulmonary angiogram", 
+                "Arrange a bone-marrow biopsy", 
+                "Administer high-dose diuretics for pulmonary edema", 
+                "Obtain an extensive autoimmune panel (ANA, ANCA, anti-GBM)"
+            ],
+            "final_diagnosis": "Hantavirus cardiopulmonary syndrome",
+            "high_quality_distracting_final_diagnosis": "Myeloproliferative disorder with secondary invasive fungal infection",
+            "low_quality_distracting_final_diagnosis": "Community-acquired pneumonia",
+            "poor_quality_distracting_final_diagnosis": "Invasive aspergillosis"
+        },
+        {
+            "case_id": "case_11_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412520",
+            "pub_date": "April 16, 2025",
+            "case_type": "Hematology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Parapneumonic effusion (bacterial pneumonia)", 
+                "Tuberculous pleurisy", 
+                "Pulmonary embolism with reactive effusion", 
+                "Systemic lupus erythematosus serositis", 
+                "Drug-induced pleural effusion", 
+                "Plasma-cell neoplasm (IgM myeloma/plasmacytoma)", 
+                "Extranodal marginal-zone lymphoma"
+            ],
+            "next_steps": [
+                "Cytologic Analysis of Pleural Fluid", 
+                "Flow Cytometry", 
+                "Maxillary Sinus Biopsy", 
+                "PET-CT", 
+                "Bone Marrow Biopsy"
+            ],
+            "final_diagnosis": "Extranodal Marginal-Zone Lymphoma",
+            "high_quality_distracting_final_diagnosis": "IgM-positive plasma cell myeloma",
+            "low_quality_distracting_final_diagnosis": "Tuberculosis pleurisy",
+            "poor_quality_distracting_final_diagnosis": "Asthma exacerbation"
+        },
+        {
+            "case_id": "case_11_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412520",
+            "pub_date": "April 16, 2025",
+            "case_type": "Hematology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Parapneumonic effusion (bacterial pneumonia)", 
+                "Tuberculous pleurisy", 
+                "Pulmonary embolism with reactive effusion", 
+                "Systemic lupus erythematosus serositis", 
+                "Drug-induced pleural effusion", 
+                "Plasma-cell neoplasm (IgM myeloma/plasmacytoma)"
+            ],
+            "next_steps": [
+                "Order a Brain MRI", 
+                "Order a Full Autoimmune Panel", 
+                "Order a CT Abdomen and Pelvis", 
+                "Perform Bronchoscopy", 
+                "Defer Maxillary Sinus Biopsy", 
+                "Prescribe Diuretics for Pleural Effusion"
+            ],
+            "final_diagnosis": "Extranodal Marginal-Zone Lymphoma",
+            "high_quality_distracting_final_diagnosis": "IgM-positive plasma cell myeloma",
+            "low_quality_distracting_final_diagnosis": "Tuberculosis pleurisy",
+            "poor_quality_distracting_final_diagnosis": "Asthma exacerbation"
+        },
+        {
+            "case_id": "case_20_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309383",
+            "pub_date": "June 26, 2024",
+            "case_type": "Primary Immunodeficiency",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Melioidosis", 
+                "Common Variable Immunodeficiency (CVID)", 
+                "Tuberculosis and Nontuberculous Mycobacteria", 
+                "Sarcoidosis", 
+                "Chronic Granulomatous Disease (CGD)", 
+                "Brucellosis", 
+                "Fungal Infection (Histoplasmosis, Blastomycosis)"
+            ],
+            "next_steps": [
+                "Measurement of serum immunoglobulin levels", 
+                "Flow cytometry", 
+                "Functional Antibody Testing", 
+                "Liver Biopsy"
+            ],
+            "final_diagnosis": "Common variable immunodeficiency",
+            "high_quality_distracting_final_diagnosis": "Melioidosis",
+            "low_quality_distracting_final_diagnosis": "Q fever",
+            "poor_quality_distracting_final_diagnosis": "Entamoeba histolytica infection"
+        },
+        {
+            "case_id": "case_20_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309383",
+            "pub_date": "June 26, 2024",
+            "case_type": "Primary Immunodeficiency",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Melioidosis", 
+                "Tuberculosis and Nontuberculous Mycobacteria", 
+                "Sarcoidosis", 
+                "Chronic Granulomatous Disease (CGD)", 
+                "Brucellosis", 
+                "Fungal Infection (Histoplasmosis, Blastomycosis)"
+            ],
+            "next_steps": [
+                "Start broad-spectrum antibiotics", 
+                "Perform a biopsy of the lungs", 
+                "Begin treatment with high-dose steroids", 
+                "Prescribe immunosuppressive therapy (e.g., methotrexate or rituximab)", 
+                "Defer liver biopsy"
+            ],
+            "final_diagnosis": "Common variable immunodeficiency",
+            "high_quality_distracting_final_diagnosis": "Melioidosis",
+            "low_quality_distracting_final_diagnosis": "Q fever",
+            "poor_quality_distracting_final_diagnosis": "Entamoeba histolytica infection"
+        },
+        {
+            "case_id": "case_40_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402504",
+            "pub_date": "December 18, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Hepatic encephalopathy precipitated by opioid accumulation",
+                "Migraine",
+                "Cryptococcal meningoencephalitis",
+                "Giant-cell arteritis",
+                "Cerebral venous thrombosis",
+                "Idiopathic intracranial hypertension",
+                "Sarcoidosis"
+            ],
+            "next_steps": [
+                "Order serum cryptococcal antigen testing",
+                "Order repeat CT, then MRI",
+                "IV Fresh-Frozen Plasma + IV Vitamin K",
+                "Lumbar Puncture with Opening Pressure"
+            ],
+            "final_diagnosis": "Cryptococcal meningoencephalitis",
+            "high_quality_distracting_final_diagnosis": "Cerebral Venous Thrombosis",
+            "low_quality_distracting_final_diagnosis": "Space-Occupying Lesions (e.g., tumors, cysts, or abscesses)",
+            "poor_quality_distracting_final_diagnosis": "Idiopathic intracranial hypertension"
+        },
+        {
+            "case_id": "case_40_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402504",
+            "pub_date": "December 18, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Hepatic encephalopathy precipitated by opioid accumulation",
+                "Migraine",
+                "Giant-cell arteritis",
+                "Cerebral venous thrombosis",
+                "Idiopathic intracranial hypertension",
+                "Sarcoidosis"
+            ],
+            "next_steps": [
+                "Continue opioid analgesia",
+                "Continue barbiturate analgesia",
+                "Start high-dose glucocorticoids",
+                "Reassure after a Normal Head CT and and defer further workup"
+            ],
+            "final_diagnosis": "Cryptococcal meningoencephalitis",
+            "high_quality_distracting_final_diagnosis": "Cerebral Venous Thrombosis",
+            "low_quality_distracting_final_diagnosis": "Space-Occupying Lesions (e.g., tumors, cysts, or abscesses)",
+            "poor_quality_distracting_final_diagnosis": "Idiopathic intracranial hypertension"
+        },
+        {
+            "case_id": "case_1_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402498",
+            "pub_date": "January 8, 2025",
+            "case_type": "Nephrology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Preeclampsia",
+                "Minimal change disease",
+                "Lupus membranous nephropathy",
+                "Focal Segmental Glomerulosclerosis",
+                "Primary membranous nephropathy"
+            ],
+            "next_steps": [
+                "High-Dose Prednisone",
+                "Long-Term Monitoring",
+                "Kidney Biopsy"
+            ],
+            "final_diagnosis": "Focal Segmental Glomerulosclerosis",
+            "high_quality_distracting_final_diagnosis": "Preeclampsia",
+            "low_quality_distracting_final_diagnosis": "Primary Membranous Nephropathy",
+            "poor_quality_distracting_final_diagnosis": "HELLP Syndrome"
+        },
+        {
+            "case_id": "case_1_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402498",
+            "pub_date": "January 8, 2025",
+            "case_type": "Nephrology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Preeclampsia",
+                "Minimal change disease",
+                "Lupus membranous nephropathy",
+                "Primary membranous nephropathy"  
+            ],
+            "next_steps": [
+                "Initiate antihypertensives",
+                "Initiate empiric ACE inhibitors",
+                "Order renal angiogram",
+                "Prescribe empiric anticoagulation"
+            ],
+            "final_diagnosis": "Focal Segmental Glomerulosclerosis",
+            "high_quality_distracting_final_diagnosis": "Preeclampsia",
+            "low_quality_distracting_final_diagnosis": "Primary Membranous Nephropathy",
+            "poor_quality_distracting_final_diagnosis": "HELLP Syndrome"
+        },
+        {
+            "case_id": "case_2_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412511",
+            "pub_date": "January 15, 2025",
+            "case_type": "Neurology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Cerebral fat embolism",
+                "Reversible cerebral vasoconstriction syndrome",
+                "Cerebral venous sinus thrombosis",
+                "Posterior Reversible Encephalopathy Syndrome",
+                "Traumatic intracranial hemorrhage"
+            ],
+            "next_steps": [
+                "Initiate Levetiracetam",
+                "CT of the Pelvis",
+                "Red-Cell Exchange Transfusion",
+                "Orthopedic Surgery"
+            ],
+            "final_diagnosis": "Posterior Reversible Encephalopathy Syndrome",
+            "high_quality_distracting_final_diagnosis": "Cerebral Fat Embolism Syndrome",
+            "low_quality_distracting_final_diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP) / Disseminated Intravascular Coagulation (DIC)",
+            "poor_quality_distracting_final_diagnosis": "Idiopathic Intracranial Hypertension"
+        },
+        {
+            "case_id": "case_2_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412511",
+            "pub_date": "January 15, 2025",
+            "case_type": "Neurology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Cerebral fat embolism",
+                "Reversible cerebral vasoconstriction syndrome",
+                "Cerebral venous sinus thrombosis",
+                "Traumatic intracranial hemorrhage"
+            ],
+            "next_steps": [
+                "Administer systemic thrombolysis",
+                "Perform Lumbar Puncture",
+                "Administer High-Volume Fluid Resuscitation"
+            ],
+            "final_diagnosis": "Posterior Reversible Encephalopathy Syndrome",
+            "high_quality_distracting_final_diagnosis": "Cerebral Fat Embolism Syndrome",
+            "low_quality_distracting_final_diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP) / Disseminated Intravascular Coagulation (DIC)",
+            "poor_quality_distracting_final_diagnosis": "Idiopathic Intracranial Hypertension"
+        },
+        {
+            "case_id": "case_5_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412514",
+            "pub_date": "February 12, 2025",
+            "case_type": "Neurology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Eosinophilic meningitis due to Angiostrongylus cantonensis infection",
+                "Guillain–Barré syndrome",
+                "Eosinophilic granulomatosis with polyangiitis",
+                "Drug-related eosinophilia",
+                "Gnathostomiasis",
+                "Paragonimiasis",
+                "Strongyloidiasis",
+                "Coccidioidomycosis"
+            ],
+            "next_steps": [
+                "Send CSF for Angiostrongylus cantonensis NAAT",
+                "Test CSF for HSV and VZV",
+                "Start gabapentin + amitriptyline for dysesthesia"
+            ],
+            "final_diagnosis": "Eosinophilic meningitis due to Angiostrongylus cantonensis infection",
+            "high_quality_distracting_final_diagnosis": "Gnathostomiasis",
+            "low_quality_distracting_final_diagnosis": "Coccidioidomycosis",
+            "poor_quality_distracting_final_diagnosis": "Multiple Sclerosis"
+        },
+        {
+            "case_id": "case_5_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412514",
+            "pub_date": "February 12, 2025",
+            "case_type": "Neurology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Guillain–Barré syndrome",
+                "Eosinophilic granulomatosis with polyangiitis",
+                "Drug-related eosinophilia",
+                "Gnathostomiasis",
+                "Paragonimiasis",
+                "Strongyloidiasis",
+                "Coccidioidomycosis"
+            ],
+            "next_steps": [
+                "Delay lumbar puncture",
+                "Continue broad-spectrum antibacterial therapy",
+                "Pursue brain biopsy or spinal cord biopsy",
+                "Start IVIG or plasmapheresis",
+                "Stop corticosteroids"
+            ],
+            "final_diagnosis": "Eosinophilic meningitis due to Angiostrongylus cantonensis infection",
+            "high_quality_distracting_final_diagnosis": "Gnathostomiasis",
+            "low_quality_distracting_final_diagnosis": "Coccidioidomycosis",
+            "poor_quality_distracting_final_diagnosis": "Multiple Sclerosis"
+        },
+        {
+            "case_id": "case_6_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412516",
+            "pub_date": "February 19, 2025",
+            "case_type": "Gastroenterology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Hepatic schistosomiasis",
+                "Cirrhosis causing portal hypertension with secondary portal vein thrombosis",
+                "Hepatic atrophy due to portal vein thrombosis",
+                "Posthepatic portal hypertension (e.g., constrictive pericarditis, restrictive cardiomyopathy)",
+                "Intrahepatic noncirrhotic causes (e.g., hepatic amyloidosis, hepatic sarcoidosis)"
+            ],
+            "next_steps": [
+                "Transjugular liver biopsy",
+                "Hematology consultation + thrombophilia (hypercoagulability) workup",
+                "Variceal banding + nonselective beta-blocker",
+                "Repeat contrast CT abdomen/pelvis (portal venous phase)"
+            ],
+            "final_diagnosis": "Hepatic atrophy due to portal vein thrombosis",
+            "high_quality_distracting_final_diagnosis": "Hepatic Schistosomiasis",
+            "low_quality_distracting_final_diagnosis": "Hepatic Sarcoidosis",
+            "poor_quality_distracting_final_diagnosis": "Acute cholecystitis"
+        },
+        {
+            "case_id": "case_6_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412516",
+            "pub_date": "February 19, 2025",
+            "case_type": "Gastroenterology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Hepatic schistosomiasis",
+                "Cirrhosis causing portal hypertension with secondary portal vein thrombosis",
+                "Posthepatic portal hypertension (e.g., constrictive pericarditis, restrictive cardiomyopathy)",
+                "Intrahepatic noncirrhotic causes (e.g., hepatic amyloidosis, hepatic sarcoidosis)"
+            ],
+            "next_steps": [
+                "Defer repeat contrast-enhanced abdominal imaging",
+                "Perform a percutaneous liver biopsy",
+                "Avoid anticoagulation therapy",
+                "Order serial non-contrast CT scans",
+                "Refer for liver transplantation evaluation"
+            ],
+            "final_diagnosis": "Hepatic atrophy due to portal vein thrombosis",
+            "high_quality_distracting_final_diagnosis": "Hepatic Schistosomiasis",
+            "low_quality_distracting_final_diagnosis": "Hepatic Sarcoidosis",
+            "poor_quality_distracting_final_diagnosis": "Acute cholecystitis"
+        },
+        {
+            "case_id": "case_7_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412515",
+            "pub_date": "February 26, 2025",
+            "case_type": "Oncology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Thrombotic thrombocytopenic purpura",
+                "Myelophthisis",
+                "Small-cell carcinoma of the lung",
+                "Primary hematologic malignancy (acute leukemia or aggressive lymphoma)",
+                "Infection-related cytopenias (EBV/CMV/HIV/hepatitis)",
+                "Autoimmune or autoinflammatory marrow processes (aplastic anemia)",
+                "Nutritional deficiencies (vitamin B12/folate; copper)"
+            ],
+            "next_steps": [
+                "Transfusions for GI bleeding",
+                "CT scan of the chest",
+                "Peripheral-blood smear",
+                "Start goals-of-care discussions"
+            ],
+            "final_diagnosis": "Small-cell carcinoma of the lung",
+            "high_quality_distracting_final_diagnosis": "Thrombotic Thrombocytopenic Purpura",
+            "low_quality_distracting_final_diagnosis": "Aplastic Anemia",
+            "poor_quality_distracting_final_diagnosis": "Transverse myelitis"
+        },
+        {
+            "case_id": "case_7_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412515",
+            "pub_date": "February 26, 2025",
+            "case_type": "Oncology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Thrombotic thrombocytopenic purpura",
+                "Myelophthisis",
+                "Primary hematologic malignancy (acute leukemia or aggressive lymphoma)",
+                "Infection-related cytopenias (EBV/CMV/HIV/hepatitis)",
+                "Autoimmune or autoinflammatory marrow processes (aplastic anemia)",
+                "Nutritional deficiencies (vitamin B12/folate; copper)"
+            ],
+            "next_steps": [
+                "Initiating plasma exchange therapy",
+                "Escalating high-dose corticosteroids",
+                "Defer bone marrow biopsy",
+                "Pursue spinal surgery",
+                "Delay goals-of-care discussions"
+            ],
+            "final_diagnosis": "Small-cell carcinoma of the lung",
+            "high_quality_distracting_final_diagnosis": "Thrombotic Thrombocytopenic Purpura",
+            "low_quality_distracting_final_diagnosis": "Aplastic Anemia",
+            "poor_quality_distracting_final_diagnosis": "Transverse myelitis"
+        },
+        {
+            "case_id": "case_10_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412517",
+            "pub_date": "April 9, 2025",
+            "case_type": "Nephrology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "ANCA-associated vasculitis",
+                "Pulmonary embolism",
+                "Antiphospholipid syndrome",
+                "Focal segmental glomerulosclerosis",
+                "Phospholipase A2 receptor–associated membranous nephropathy",
+                "Anti–glomerular basement membrane disease",
+                "Aspiration pneumonitis / aspiration pneumonia",
+                "Systemic lupus erythematosus (including lupus nephritis)",
+                "Cryoglobulinemic vasculitis",
+                "Nephrotic syndrome with a hypercoagulable state",
+                "Minimal change disease"
+            ],
+            "next_steps": [
+                "Serum anti-PLA2R antibody testing (ELISA + indirect immunofluorescence)",
+                "Empiric treatment for suspected infection/aspiration pneumonia (e.g., vancomycin + cefepime → ceftriaxone + azithromycin)",
+                "Supportive respiratory/volume management (supplemental O₂, incentive spirometry, diuretics as needed)",
+                "Serial monitoring (urine protein, serum albumin, kidney function)"
+            ],
+            "final_diagnosis": "Phospholipase A2 receptor–associated membranous nephropathy",
+            "high_quality_distracting_final_diagnosis": "Pulmonary-Renal Syndrome (specifically ANCA-associated vasculitis)",
+            "low_quality_distracting_final_diagnosis": "Minimal Change Disease (MCD) or Focal Segmental Glomerulosclerosis (FSGS)",
+            "poor_quality_distracting_final_diagnosis": "Pyelonephritis"
+        },
+        {
+            "case_id": "case_10_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412517",
+            "pub_date": "April 9, 2025",
+            "case_type": "Nephrology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "ANCA-associated vasculitis",
+                "Pulmonary embolism",
+                "Antiphospholipid syndrome",
+                "Focal segmental glomerulosclerosis",
+                "Anti–glomerular basement membrane disease",
+                "Aspiration pneumonitis / aspiration pneumonia",
+                "Systemic lupus erythematosus (including lupus nephritis)",
+                "Cryoglobulinemic vasculitis",
+                "Nephrotic syndrome with a hypercoagulable state",
+                "Minimal change disease"
+            ],
+            "next_steps": [
+                "Withhold immunosuppressive therapy",
+                "Stop anticoagulation once symptoms improve",
+                "Restrict fluid intake to manage the kidney strain"
+            ],
+            "final_diagnosis": "Phospholipase A2 receptor–associated membranous nephropathy",
+            "high_quality_distracting_final_diagnosis": "Pulmonary-Renal Syndrome (specifically ANCA-associated vasculitis)",
+            "low_quality_distracting_final_diagnosis": "Minimal Change Disease (MCD) or Focal Segmental Glomerulosclerosis (FSGS)",
+            "poor_quality_distracting_final_diagnosis": "Pyelonephritis"
+        },
+        {
+            "case_id": "case_13_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412518",
+            "pub_date": "May 7, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Acute bacterial meningitis",
+                "Viral meningoencephalitis (HSV/VZV)",
+                "Cryptococcal meningitis in the setting of Cushing’s syndrome",
+                "Candida meningitis",
+                "Adrenocortical carcinoma"
+            ],
+            "next_steps": [
+                "24-hour urine collection for urinary free cortisol",
+                "Repeat Brain CT Imaging",
+                "Cryptococcal Antigen Testing"
+            ],
+            "final_diagnosis": "Cryptococcal meningitis in the setting of Cushing’s syndrome",
+            "high_quality_distracting_final_diagnosis": "Adrenocortical Carcinoma",
+            "low_quality_distracting_final_diagnosis": "Acute Bacterial Meningitis",
+            "poor_quality_distracting_final_diagnosis": "Wernicke Encephalopathy"
+        },
+        {
+            "case_id": "case_13_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412518",
+            "pub_date": "May 7, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Acute bacterial meningitis",
+                "Viral meningoencephalitis (HSV/VZV)",
+                "Candida meningitis",
+                "Adrenocortical carcinoma"
+            ],
+            "next_steps": [
+                "Defer lumbar puncture",
+                "Perform adrenal biopsy",
+                "Start broad-spectrum antibacterial antibiotics"
+            ],
+            "final_diagnosis": "Cryptococcal meningitis in the setting of Cushing’s syndrome",
+            "high_quality_distracting_final_diagnosis": "Adrenocortical Carcinoma",
+            "low_quality_distracting_final_diagnosis": "Acute Bacterial Meningitis",
+            "poor_quality_distracting_final_diagnosis": "Wernicke Encephalopathy"
+        },
+        {
+            "case_id": "case_23_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309348",
+            "pub_date": "August 13, 2025",
+            "case_type": "Pulmonology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Postcapillary pulmonary hypertension due to left heart disease",
+                "Chronic lung disease-associated pulmonary hypertension (e.g., hypersensitivity pneumonitis)",
+                "Chronic thromboembolic pulmonary hypertension",
+                "Pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis",
+                "Autoimmune-associated pulmonary arterial hypertension (e.g., systemic sclerosis)",
+                "Idiopathic pulmonary arterial hypertension"
+            ],
+            "next_steps": [
+                "Transfer the patient for expedited lung-transplant evaluation",
+                "Consider venoarterial ECMO if cardiogenic shock worsens",
+                "Evaluate patient after epoprostenol"
+            ],
+            "final_diagnosis": "Pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis",
+            "high_quality_distracting_final_diagnosis": "Idiopathic Pulmonary Arterial Hypertension",
+            "low_quality_distracting_final_diagnosis": "Postcapillary pulmonary hypertension due to left heart disease",
+            "poor_quality_distracting_final_diagnosis": "Pulmonary Sarcoidosis"
+        },
+        {
+            "case_id": "case_23_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2309348",
+            "pub_date": "August 13, 2025",
+            "case_type": "Pulmonology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Postcapillary pulmonary hypertension due to left heart disease",
+                "Chronic lung disease-associated pulmonary hypertension (e.g., hypersensitivity pneumonitis)",
+                "Chronic thromboembolic pulmonary hypertension",
+                "Autoimmune-associated pulmonary arterial hypertension (e.g., systemic sclerosis)",
+                "Idiopathic pulmonary arterial hypertension"
+            ],
+            "next_steps": [
+                "Give higher-dose epoprostenol",
+                "Performing a transbronchial or surgical lung biopsy",
+                "Give high-dose steroids",
+                "Defer transplant evaluation",
+                "CT pulmonary angiography"
+            ],
+            "final_diagnosis": "Pulmonary veno-occlusive disease and pulmonary capillary hemangiomatosis",
+            "high_quality_distracting_final_diagnosis": "Idiopathic Pulmonary Arterial Hypertension",
+            "low_quality_distracting_final_diagnosis": "Postcapillary pulmonary hypertension due to left heart disease",
+            "poor_quality_distracting_final_diagnosis": "Pulmonary Sarcoidosis"
+        },
+        {
+            "case_id": "case_24_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312739",
+            "pub_date": "August 20, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Lyme carditis",
+                "Multisystem inflammatory syndrome (associated with SARS-CoV-2)",
+                "Pulmonary embolism",
+                "Acute coronary syndrome",
+                "Cardiomyopathy"
+            ],
+            "next_steps": [
+                "Lyme Disease Serologic Testing",
+                "Start empiric antibiotic therapy immediately (IV ceftriaxone)",
+                "Serial Electrocardiographic Monitoring"
+            ],
+            "final_diagnosis": "Lyme carditis",
+            "high_quality_distracting_final_diagnosis": "Multisystem inflammatory syndrome (associated with SARS-CoV-2)",
+            "low_quality_distracting_final_diagnosis": "Acute Coronary Syndrome",
+            "poor_quality_distracting_final_diagnosis": "Cardiac Sarcoidosis"
+        },
+        {
+            "case_id": "case_24_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312739",
+            "pub_date": "August 20, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Multisystem inflammatory syndrome (associated with SARS-CoV-2)",
+                "Pulmonary embolism",
+                "Acute coronary syndrome",
+                "Cardiomyopathy"
+            ],
+            "next_steps": [
+                "Wait for more testing results before starting antibiotics",
+                "Attribute the symptoms primarily to anxiety or post-viral syndrome",
+                "Initiate beta-blockers or calcium channel blockers for palpitations",
+                "Implant a permanent pacemaker",
+                "Prescribe additional corticosteroids"
+            ],
+            "final_diagnosis": "Lyme carditis",
+            "high_quality_distracting_final_diagnosis": "Multisystem inflammatory syndrome (associated with SARS-CoV-2)",
+            "low_quality_distracting_final_diagnosis": "Acute Coronary Syndrome",
+            "poor_quality_distracting_final_diagnosis": "Cardiac Sarcoidosis"
+        },
+        {
+            "case_id": "case_25_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412535",
+            "pub_date": "September 10, 2025",
+            "case_type": "Cardiology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Coronary ischemia",
+                "Anemia",
+                "Aortic stenosis",
+                "Atrial arrhythmia",
+                "Sick sinus syndrome with chronotropic incompetence",
+                "Heart failure",
+                "Interstitial Lung Disease"
+            ],
+            "next_steps": [
+                "Transfused 1 unit of packed red blood cells",
+                "Repeat transthoracic echocardiography",
+                "Obtain a complete blood count",
+                "Checked iron and ferritin, and reticulocyte indices"
+            ],
+            "final_diagnosis": "Aortic stenosis",
+            "high_quality_distracting_final_diagnosis": "Anemia",
+            "low_quality_distracting_final_diagnosis": "Interstitial Lung Disease",
+            "poor_quality_distracting_final_diagnosis": "Pulmonary Embolism"
+        },
+        {
+            "case_id": "case_25_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412535",
+            "pub_date": "September 10, 2025",
+            "case_type": "Cardiology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Coronary ischemia",
+                "Anemia",
+                "Atrial arrhythmia",
+                "Sick sinus syndrome with chronotropic incompetence",
+                "Heart failure",
+                "Interstitial Lung Disease"
+            ],
+            "next_steps": [
+                "Escalate diuretic therapy",
+                "Malignancy screening (e.g., PET-CT, tumor markers)",
+                "Referral for TAVR evaluation",
+                "Order stress testing"
+            ],
+            "final_diagnosis": "Aortic stenosis",
+            "high_quality_distracting_final_diagnosis": "Anemia",
+            "low_quality_distracting_final_diagnosis": "Interstitial Lung Disease",
+            "poor_quality_distracting_final_diagnosis": "Pulmonary Embolism"
+        },
+        {
+            "case_id": "case_26_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412533",
+            "pub_date": "September 17, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Langerhans’-cell histiocytosis",
+                "Acute Hematogenous Osteomyelitis",
+                "Disseminated Bartonella henselae",
+                "Leukemia (e.g., Acute Lymphoblastic Leukemia)",
+                "Sarcoidosis",
+                "Chronic nonbacterial osteomyelitis",
+                "Primary Bone Cancer (Osteosarcoma or Ewing’s Sarcoma)"
+            ],
+            "next_steps": [
+                "Obtain blood cultures",
+                "Bartonella serologic testing",
+                "Request ophthalmology consultation"
+            ],
+            "final_diagnosis": "Disseminated Bartonella henselae",
+            "high_quality_distracting_final_diagnosis": "Acute Hematogenous Osteomyelitis",
+            "low_quality_distracting_final_diagnosis": "Primary Bone Cancer (Osteosarcoma or Ewing’s Sarcoma)",
+            "poor_quality_distracting_final_diagnosis": "Metastatic Neuroblastoma"
+        },
+        {
+            "case_id": "case_26_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412533",
+            "pub_date": "September 17, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Langerhans’-cell histiocytosis",
+                "Acute Hematogenous Osteomyelitis",
+                "Leukemia (e.g., Acute Lymphoblastic Leukemia)",
+                "Sarcoidosis",
+                "Chronic nonbacterial osteomyelitis",
+                "Primary Bone Cancer (Osteosarcoma or Ewing’s Sarcoma)"
+            ],
+            "next_steps": [
+                "Start immunosuppressive therapy",
+                "Initiate empiric broad-spectrum IV antibiotics",
+                "Bone biopsy",
+                "Order oncologic staging (PET-CT, repeated CT scans)"
+            ],
+            "final_diagnosis": "Disseminated Bartonella henselae",
+            "high_quality_distracting_final_diagnosis": "Acute Hematogenous Osteomyelitis",
+            "low_quality_distracting_final_diagnosis": "Primary Bone Cancer (Osteosarcoma or Ewing’s Sarcoma)",
+            "poor_quality_distracting_final_diagnosis": "Metastatic Neuroblastoma"
+        },
+        {
+            "case_id": "case_27_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412537",
+            "pub_date": "September 24, 2025",
+            "case_type": "Cardiology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Chagas’ disease",
+                "Remote myocarditis",
+                "Takotsubo cardiomyopathy",
+                "Familial/genetic dilated cardiomyopathy",
+                "Coronary embolism",
+                "Ischemic Cardiomyopathy",
+                "Alcohol-Associated Dilated Cardiomyopathy"
+            ],
+            "next_steps": [
+                "Referral for Implantable Cardioverter-Defibrillator (ICD) Evaluation",
+                "Continued Anticoagulation Therapy",
+                "Cardiac Magnetic Resonance Imaging",
+                "Genetic Testing for Dilated Cardiomyopathy and Left Ventricular Noncompaction"
+            ],
+            "final_diagnosis": "Chagas’ disease",
+            "high_quality_distracting_final_diagnosis": "Alcohol-Associated Dilated Cardiomyopathy",
+            "low_quality_distracting_final_diagnosis": "Ischemic Cardiomyopathy",
+            "poor_quality_distracting_final_diagnosis": "Cardiac Amyloidosis"
+        },
+        {
+            "case_id": "case_27_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412537",
+            "pub_date": "September 24, 2025",
+            "case_type": "Cardiology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Remote myocarditis",
+                "Takotsubo cardiomyopathy",
+                "Familial/genetic dilated cardiomyopathy",
+                "Coronary embolism",
+                "Ischemic Cardiomyopathy",
+                "Alcohol-Associated Dilated Cardiomyopathy"
+            ],
+            "next_steps": [
+                "Endomyocardial Biopsy",
+                "Discontinue Anticoagulation Therapy",
+                "Order Abdominal CT Scan",
+                "Prescribe High-Dose Diuretics"
+            ],
+            "final_diagnosis": "Chagas’ disease",
+            "high_quality_distracting_final_diagnosis": "Alcohol-Associated Dilated Cardiomyopathy",
+            "low_quality_distracting_final_diagnosis": "Ischemic Cardiomyopathy",
+            "poor_quality_distracting_final_diagnosis": "Cardiac Amyloidosis"
+        },
+        {
+            "case_id": "case_28_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412539",
+            "pub_date": "October 8, 2025",
+            "case_type": "Gastroenterology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Perforated or penetrating duodenal ulcer",
+                "Perforation of the duodenum by a foreign body",
+                "Aspiration pneumonia",
+                "Strongyloidiasis",
+                "Crohn’s disease",
+                "Infective endocarditis with septic pulmonary emboli"
+            ],
+            "next_steps": [
+                "CT Angiography of the Abdomen",
+                "Alcohol Use Disorder Relapse-Prevention Measures",
+                "Repeated blood cultures",
+                "Anticoagulation for Renal-Vein/IVC Thrombosis"
+            ],
+            "final_diagnosis": "Perforation of the duodenum by a foreign body",
+            "high_quality_distracting_final_diagnosis": "Perforated or penetrating duodenal ulcer",
+            "low_quality_distracting_final_diagnosis": "Infective endocarditis with septic pulmonary emboli",
+            "poor_quality_distracting_final_diagnosis": "Acute Alcoholic Hepatitis"
+        },
+        {
+            "case_id": "case_28_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412539",
+            "pub_date": "October 8, 2025",
+            "case_type": "Gastroenterology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Perforated or penetrating duodenal ulcer",
+                "Aspiration pneumonia",
+                "Strongyloidiasis",
+                "Crohn’s disease",
+                "Infective endocarditis with septic pulmonary emboli"
+            ],
+            "next_steps": [
+                "Initiate High-Dose Corticosteroids",
+                "Stop Anticoagulation Therapy",
+                "Order Repeated Chest CT Scans",
+                "Perform transthoracic or transesophageal echocardiography"
+            ],
+            "final_diagnosis": "Perforation of the duodenum by a foreign body",
+            "high_quality_distracting_final_diagnosis": "Perforated or penetrating duodenal ulcer",
+            "low_quality_distracting_final_diagnosis": "Infective endocarditis with septic pulmonary emboli",
+            "poor_quality_distracting_final_diagnosis": "Acute Alcoholic Hepatitis"
+        },
+        {
+            "case_id": "case_29_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412536",
+            "pub_date": "October 15, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Pneumocystis jirovecii",
+                "Disseminated histoplasmosis",
+                "Disseminated Mycobacterium tuberculosis",
+                "Nontuberculous Mycobacterial Infection",
+                "Noninfectious Immune-Mediated Disease (Sarcoidosis)",
+                "Primary Lung Cancer (e.g., Adenocarcinoma)"
+            ],
+            "next_steps": [
+                "Chest CT with IV contrast",
+                "Induced sputum for AFB smear",
+                "Brain MRI with gadolinium",
+                "CT Abdomen/Pelvis with Oral + IV Contrast"
+            ],
+            "final_diagnosis": "Disseminated Mycobacterium tuberculosis",
+            "high_quality_distracting_final_diagnosis": "Primary Lung Cancer (e.g., Adenocarcinoma)",
+            "low_quality_distracting_final_diagnosis": "Disseminated Histoplasmosis",
+            "poor_quality_distracting_final_diagnosis": "Disseminated Cytomegalovirus Pneumonitis"
+        },
+        {
+            "case_id": "case_29_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412536",
+            "pub_date": "October 15, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Pneumocystis jirovecii",
+                "Disseminated histoplasmosis",
+                "Nontuberculous Mycobacterial Infection",
+                "Noninfectious Immune-Mediated Disease (Sarcoidosis)",
+                "Primary Lung Cancer (e.g., Adenocarcinoma)"
+            ],
+            "next_steps": [
+                "Initiate Antiretroviral Therapy",
+                "Defer Induced Sputum AFB Smear/NAAT/Culture",
+                "PET-CT for Malignancy Workup",
+                "Attribute Fever and Pulmonary Findings to Substance Use"
+            ],
+            "final_diagnosis": "Disseminated Mycobacterium tuberculosis",
+            "high_quality_distracting_final_diagnosis": "Primary Lung Cancer (e.g., Adenocarcinoma)",
+            "low_quality_distracting_final_diagnosis": "Disseminated Histoplasmosis",
+            "poor_quality_distracting_final_diagnosis": "Disseminated Cytomegalovirus Pneumonitis"
+        },
+        {
+            "case_id": "case_12_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412522",
+            "pub_date": "April 23, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.15,
+            "differential_diagnoses": [
+                "Body lice infestation",
+                "Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome",
+                "Herpes simplex virus infection",
+                "Measles",
+                "Scabies",
+                "Varicella-zoster virus infection"
+            ],
+            "next_steps": [
+                "Unroof and sample a vesicle for VZV-specific PCR and HSV PCR",
+                "Perform a punch biopsy of an active lesion, with histology and immunohistochemical stains for VZV and HSV",
+                "Obtain serologies for VZV IgM/IgG (to document seroconversion) and HIV testing (to rule out immunocompromise)"
+            ],
+            "final_diagnosis": "Varicella-zoster virus infection",
+            "high_quality_distracting_final_diagnosis": "Herpes simplex virus infection",
+            "low_quality_distracting_final_diagnosis": "Rubella",
+            "poor_quality_distracting_final_diagnosis": "Dermatitis Herpetiformis"
+        },
+        {
+            "case_id": "case_12_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412522",
+            "pub_date": "April 23, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.15,
+            "differential_diagnoses": [
+                "Body lice infestation",
+                "Drug reaction with eosinophilia and systemic symptoms (DRESS) syndrome",
+                "Herpes simplex virus infection",
+                "Measles",
+                "Scabies"
+            ],
+            "next_steps": [
+                "Start broad-spectrum IV antibiotics",
+                "Order a CT scan of the chest and abdomen",
+                "Initiate TNF-α inhibitor therapy to suppress inflammation",
+                "Prescribe high-dose systemic corticosteroids to calm the rash",
+                "Apply permethrin cream empirically for scabies",
+                "Return the patient to the shelter while tests are pending"
+            ],
+            "final_diagnosis": "Varicella-zoster virus infection",
+            "high_quality_distracting_final_diagnosis": "Herpes simplex virus infection",
+            "low_quality_distracting_final_diagnosis": "Rubella",
+            "poor_quality_distracting_final_diagnosis": "Dermatitis Herpetiformis"
+        },
+        {
+            "case_id": "case_8_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312727",
+            "pub_date": "March 12, 2025",
+            "case_type": "Endocrinology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.58,
+            "differential_diagnoses": [
+                "Chronic acetaminophen use causing elevated level of 5-oxoproline",
+                "Ethylene glycol ingestion",
+                "Euglycemic diabetic ketoacidosis",
+                "Salicylate toxicity",
+                "Type A lactic acidosis",
+                "Type B lactic acidosis"
+            ],
+            "next_steps": [
+                "Measure serum β-hydroxybutyrate to confirm ketonemia",
+                "Obtain serum metformin level to exclude metformin-associated lactic acidosis",
+                "Order urine organic-acid profile (including β-hydroxybutyrate and acetoacetate) to fully characterize ketone burden"
+            ],
+            "final_diagnosis": "Euglycemic diabetic ketoacidosis",
+            "high_quality_distracting_final_diagnosis": "Metformin-associated lactic acidosis",
+            "low_quality_distracting_final_diagnosis": "5-Oxoproline",
+            "poor_quality_distracting_final_diagnosis": "Uremic acidosis"
+        },
+        {
+            "case_id": "case_8_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312727",
+            "pub_date": "March 12, 2025",
+            "case_type": "Endocrinology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.58,
+            "differential_diagnoses": [
+                "Chronic acetaminophen use causing elevated level of 5-oxoproline",
+                "Ethylene glycol ingestion",
+                "Salicylate toxicity",
+                "Type A lactic acidosis",
+                "Type B lactic acidosis"
+            ],
+            "next_steps": [
+                "Order a CT scan of the head for altered mental status",
+                "Start empiric antifungals and antitubercular therapy for occult infection in the CNS",
+                "Perform an exercise stress test for lactic acidosis",
+                "24-hour urine ketone collection",
+                "Order serum ammonia and an inborn-errors metabolism panel",
+                "Schedule a bone-marrow biopsy for unexplained anion gap"
+            ],
+            "final_diagnosis": "Euglycemic diabetic ketoacidosis",
+            "high_quality_distracting_final_diagnosis": "Metformin-associated lactic acidosis",
+            "low_quality_distracting_final_diagnosis": "5-Oxoproline",
+            "poor_quality_distracting_final_diagnosis": "Uremic acidosis"
+        },
+        {
+            "case_id": "case_14_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300972",
+            "pub_date": "May 14, 2025",
+            "case_type": "Oncology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Peritonsillar abscess",
+                "Granulomatous/inflammatory disease (e.g., GPA, sarcoidosis)",
+                "Benign salivary-gland tumor (e.g., pleomorphic adenoma)",
+                "Lymphoma",
+                "Embryonal rhabdomyosarcoma"
+            ],
+            "next_steps": [
+                "Secure airway and perform excisional biopsy under general anesthesia with hemostatic control",
+                "Perform H&E plus desmin, MyoD1, and myogenin",
+                "FISH for FOXO1 to exclude alveolar subtype and NGS panel for RAS-pathway mutations and copy-number changes"
+            ],
+            "final_diagnosis": "Embryonal rhabdomyosarcoma",
+            "high_quality_distracting_final_diagnosis": "Squamous-cell Carcinoma",
+            "low_quality_distracting_final_diagnosis": "Peritonsillar abscess",
+            "poor_quality_distracting_final_diagnosis": "Tonsillitis"
+        },
+        {
+            "case_id": "case_14_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300972",
+            "pub_date": "May 14, 2025",
+            "case_type": "Oncology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Peritonsillar abscess",
+                "Granulomatous/inflammatory disease (e.g., GPA, sarcoidosis)",
+                "Benign salivary-gland tumor (e.g., pleomorphic adenoma)",
+                "Lymphoma"
+            ],
+            "next_steps": [
+                "Empiric high-dose corticosteroids",
+                "Continue successive courses of broad-spectrum antibiotics",
+                "Blind percutaneous needle aspiration of the mass",
+                "Empiric radiation therapy"
+            ],
+            "final_diagnosis": "Embryonal rhabdomyosarcoma",
+            "high_quality_distracting_final_diagnosis": "Squamous-cell Carcinoma",
+            "low_quality_distracting_final_diagnosis": "Peritonsillar abscess",
+            "poor_quality_distracting_final_diagnosis": "Tonsillitis"
+        },
+        {
+            "case_id": "case_17_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412510",
+            "pub_date": "June 18, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.15,
+            "differential_diagnoses": [
+                "Capnocytophaga canimorsus infection",
+                "Disseminated bartonella infection",
+                "Disseminated strongyloidiasis",
+                "Kidney allograft rejection",
+                "Pasteurella multocida infection",
+                "Pneumocystis jirovecii pneumonia"
+            ],
+            "next_steps": [
+                "Microscopic examination of tracheal aspirate",
+                "Punch biopsy of cutaneous lesions",
+                "Donor and recipient serologic testing"
+            ],
+            "final_diagnosis": "Disseminated strongyloidiasis",
+            "high_quality_distracting_final_diagnosis": "Disseminated bartonella infection",
+            "low_quality_distracting_final_diagnosis": "Pneumocystis jirovecii pneumonia",
+            "poor_quality_distracting_final_diagnosis": "Acute respiratory distress syndrome",
+            "easy_case": "True"
+        },
+        {
+            "case_id": "case_17_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412510",
+            "pub_date": "June 18, 2025",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.15,
+            "differential_diagnoses": [
+                "Capnocytophaga canimorsus infection",
+                "Disseminated bartonella infection",
+                "Kidney allograft rejection",
+                "Pasteurella multocida infection",
+                "Pneumocystis jirovecii pneumonia"
+            ],
+            "next_steps": [
+                "Cardiac MRI",
+                "Colonoscopy with mucosal biopsies",
+                "Bone marrow biopsy"
+            ],
+            "final_diagnosis": "Disseminated strongyloidiasis",
+            "high_quality_distracting_final_diagnosis": "Disseminated bartonella infection",
+            "low_quality_distracting_final_diagnosis": "Pneumocystis jirovecii pneumonia",
+            "poor_quality_distracting_final_diagnosis": "Acute respiratory distress syndrome",
+            "easy_case": "True"
+        },
+        {
+            "case_id": "case_4_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412513",
+            "pub_date": "January 29, 2025",
+            "case_type": "Inflammatory",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.67,
+            "differential_diagnoses": [
+                "Bartonellosis",
+                "Blastomycosis",
+                "Diffuse large B-cell lymphoma",
+                "Paraneoplastic inflammatory polyarthritis",
+                "Sarcoidosis (Löfgren's syndrome)",
+                "Systemic lupus erythematosus"
+            ],
+            "next_steps": [
+                "Cardiac MRI",
+                "18F-FDG PET/CT",
+                "Serum ACE level and calcium"
+            ],
+            "final_diagnosis": "Sarcoidosis (Löfgren's syndrome)",
+            "high_quality_distracting_final_diagnosis": "Diffuse large B-cell lymphoma",
+            "low_quality_distracting_final_diagnosis": "Bartonellosis",
+            "poor_quality_distracting_final_diagnosis": "Anthrax infection",
+            "easy_case": "True"
+        },
+        {
+            "case_id": "case_4_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412513",
+            "pub_date": "January 29, 2025",
+            "case_type": "Inflammatory",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.67,
+            "differential_diagnoses": [
+                "Bartonellosis",
+                "Blastomycosis",
+                "Diffuse large B-cell lymphoma",
+                "Paraneoplastic inflammatory polyarthritis",
+                "Systemic lupus erythematosus"
+            ],
+            "next_steps": [
+                "Anti-tubercular therapy (RIPE regimen)",
+                "Knee joint aspiration and synovial biopsy",
+                "Immediate high-dose IV methylprednisolone pulse",
+                "Bone marrow biopsy",
+                "Routine colonoscopy"
+            ],
+            "final_diagnosis": "Sarcoidosis (Löfgren's syndrome)",
+            "high_quality_distracting_final_diagnosis": "Diffuse large B-cell lymphoma",
+            "low_quality_distracting_final_diagnosis": "Bartonellosis",
+            "poor_quality_distracting_final_diagnosis": "Anthrax infection",
+            "easy_case": "True"
+        },
+        {
+            "case_id": "case_36_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402499",
+            "pub_date": "November 20, 2024",
+            "case_type": "Gastrointestinal",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.37,
+            "differential_diagnoses": [
+                "Celiac disease",
+                "Gastric bezoar",
+                "Intestinal malrotation",
+                "Intussusception of the intestine",
+                "Lymphoma of the small bowel",
+                "Severe constipation"
+            ],
+            "next_steps": [
+                "Esophagogastroduodenoscopy (EGD)",
+                "Surgical Consultation for Bezoar Removal",
+                "Psychiatric Evaluation for Trichotillomania/Trichophagia"
+            ],
+            "final_diagnosis": "Gastric bezoar",
+            "high_quality_distracting_final_diagnosis": "Intestinal malrotation",
+            "low_quality_distracting_final_diagnosis": "Gallbladder disease",
+            "poor_quality_distracting_final_diagnosis": "Appendicitis"
+        },
+        {
+            "case_id": "case_36_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402499",
+            "pub_date": "November 20, 2024",
+            "case_type": "Gastrointestinal",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.37,
+            "differential_diagnoses": [
+                "Celiac disease",
+                "Intestinal malrotation",
+                "Intussusception of the intestine",
+                "Lymphoma of the small bowel",
+                "Severe constipation"
+            ],
+            "next_steps": [
+                "Order a Colonoscopy",
+                "Start High-Dose Proton Pump Inhibitor Therapy",
+                "Obtain a Barium Enema",
+                "Trial of Metoclopramide for Gastroparesis"
+            ],
+            "final_diagnosis": "Gastric bezoar",
+            "high_quality_distracting_final_diagnosis": "Intestinal malrotation",
+            "low_quality_distracting_final_diagnosis": "Gallbladder disease",
+            "poor_quality_distracting_final_diagnosis": "Appendicitis"
+        },
+        {
+            "case_id": "case_31_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402493",
+            "pub_date": "October 9, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.62,
+            "differential_diagnoses": [
+                "Antineutrophil cytoplasmic antibody-associated vasculitis",
+                "Dengue virus infection",
+                "Human granulocytic anaplasmosis",
+                "Leptospirosis",
+                "Rocky Mountain spotted fever",
+                "The Dubin-Johnson syndrome"
+            ],
+            "next_steps": [
+                "Microscopic agglutination test (MAT) on acute and convalescent sera",
+                "Repeat NAAT on urine",
+                "Serial organ-function monitoring (serial LFTs, renal panels, and chest imaging)"
+            ],
+            "final_diagnosis": "Leptospirosis",
+            "high_quality_distracting_final_diagnosis": "Rocky Mountain spotted fever",
+            "low_quality_distracting_final_diagnosis": "Dengue virus infection",
+            "poor_quality_distracting_final_diagnosis": "Alcohol cirrhosis"
+        },
+        {
+            "case_id": "case_31_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402493",
+            "pub_date": "October 9, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.62,
+            "differential_diagnoses": [
+                "Antineutrophil cytoplasmic antibody-associated vasculitis",
+                "Dengue virus infection",
+                "Human granulocytic anaplasmosis",
+                "Rocky Mountain spotted fever",
+                "The Dubin-Johnson syndrome"
+            ],
+            "next_steps": [
+                "Order an abdominal ultrasound to look for biliary obstruction",
+                "Send viral hepatitis panels (A, B, C, E)",
+                "Perform a lumbar puncture for CSF analysis",
+                "Obtain a bone marrow biopsy to explain the leukemoid reaction",
+                "Draw paired blood cultures every 6 hours"
+            ],
+            "final_diagnosis": "Leptospirosis",
+            "high_quality_distracting_final_diagnosis": "Rocky Mountain spotted fever",
+            "low_quality_distracting_final_diagnosis": "Dengue virus infection",
+            "poor_quality_distracting_final_diagnosis": "Alcohol cirrhosis"
+        },
+        {
+            "case_id": "case_19_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402482",
+            "pub_date": "June 19, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.46,
+            "differential_diagnoses": [
+                "Adult-onset Still's disease",
+                "Chikungunya virus infection",
+                "Chronic inflammatory arthritis after Covid-19",
+                "Syphilis",
+                "Systemic lupus erythematosus",
+                "VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome"
+            ],
+            "next_steps": [
+                "Perform treponemal antibody test (EIA or TP-PA)",
+                "Screen for co-infections",
+                "Evaluate for neurosyphilis only if neurologic, ocular, or otic symptoms develop"
+            ],
+            "final_diagnosis": "Syphilis",
+            "high_quality_distracting_final_diagnosis": "Systemic lupus erythematosus",
+            "low_quality_distracting_final_diagnosis": "Chronic inflammatory arthritis after Covid-19",
+            "poor_quality_distracting_final_diagnosis": "Lyme disease"
+        },
+        {
+            "case_id": "case_19_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402482",
+            "pub_date": "June 19, 2024",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.46,
+            "differential_diagnoses": [
+                "Adult-onset Still's disease",
+                "Chikungunya virus infection",
+                "Chronic inflammatory arthritis after Covid-19",
+                "Systemic lupus erythematosus",
+                "VEXAS (vacuoles, E1 enzyme, X-linked, autoinflammatory, somatic) syndrome"
+            ],
+            "next_steps": [
+                "Empiric high-dose corticosteroids",
+                "Skin biopsy of a rash lesion",
+                "MRI of the ankles and wrists",
+                "Bone-marrow biopsy",
+                "Empiric broad-spectrum antibiotics"
+            ],
+            "final_diagnosis": "Syphilis",
+            "high_quality_distracting_final_diagnosis": "Systemic lupus erythematosus",
+            "low_quality_distracting_final_diagnosis": "Chronic inflammatory arthritis after Covid-19",
+            "poor_quality_distracting_final_diagnosis": "Lyme disease"
+        },
+        {
+            "case_id": "case_3_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300900",
+            "pub_date": "January 22, 2025",
+            "case_type": "Hematology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Athlete's heart",
+                "Hypertrophic cardiomyopathy",
+                "AL Amyloidosis",
+                "Noninfiltrative restrictive cardiomyopathy",
+                "Sarcoidosis"
+            ],
+            "next_steps": [
+                "Quantitative serum free light-chain assay & immunofixation",
+                "Fat-pad (or endomyocardial) biopsy with Congo-red & immunohistochemistry",
+                "Bone marrow biopsy with flow cytometry & FISH"
+            ],
+            "final_diagnosis": "AL Amyloidosis",
+            "high_quality_distracting_final_diagnosis": "Hypertrophic cardiomyopathy",
+            "low_quality_distracting_final_diagnosis": "Noninfiltrative restrictive cardiomyopathy",
+            "poor_quality_distracting_final_diagnosis": "Exercise-Induced Bronchoconstriction"
+        },
+        {
+            "case_id": "case_3_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2300900",
+            "pub_date": "January 22, 2025",
+            "case_type": "Hematology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Athlete's heart",
+                "Hypertrophic cardiomyopathy",
+                "Noninfiltrative restrictive cardiomyopathy",
+                "Sarcoidosis"
+            ],
+            "next_steps": [
+                "Repeat Transthoracic Echocardiogram in 1 Month",
+                "Order a Whole-Body PET-CT",
+                "Empirically Start High-Dose Steroids",
+                "Schedule an Endomyocardial Biopsy"
+            ],
+            "final_diagnosis": "AL Amyloidosis",
+            "high_quality_distracting_final_diagnosis": "Hypertrophic cardiomyopathy",
+            "low_quality_distracting_final_diagnosis": "Noninfiltrative restrictive cardiomyopathy",
+            "poor_quality_distracting_final_diagnosis": "Exercise-Induced Bronchoconstriction"
+        },
+        {
+            "case_id": "case_16_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412524",
+            "pub_date": "June 11, 2025",
+            "case_type": "Autoimmune",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Nasopharyngeal carcinoma",
+                "Adenoid cystic carcinoma of minor salivary glands",
+                "Granulomatosis with polyangiitis",
+                "Diffuse large B-cell lymphoma",
+                "Acute invasive fungal sinusitis"
+            ],
+            "next_steps": [
+                "Measure serum PR3-ANCA and MPO-ANCA titers",
+                "Perform targeted deep biopsy of viable nasopharyngeal tissue with elastic-tissue staining",
+                "Obtain contrast-enhanced MRI of skull base for treatment planning and to monitor response"
+            ],
+            "final_diagnosis": "Granulomatosis with polyangiitis",
+            "high_quality_distracting_final_diagnosis": "IgG4-related disease",
+            "low_quality_distracting_final_diagnosis": "Acute invasive fungal sinusitis",
+            "poor_quality_distracting_final_diagnosis": "Cerebral venous sinus thrombosis"
+        },
+        {
+            "case_id": "case_16_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412524",
+            "pub_date": "June 11, 2025",
+            "case_type": "Autoimmune",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": "NA",
+            "differential_diagnoses": [
+                "Nasopharyngeal carcinoma",
+                "Adenoid cystic carcinoma of minor salivary glands",
+                "Diffuse large B-cell lymphoma",
+                "Acute invasive fungal sinusitis"
+            ],
+            "next_steps": [
+                "Order an esophagogastroduodenoscopy (EGD)",
+                "Start empirical amphotericin B",
+                "Perform lumbar puncture to evaluate for central nervous system infection",
+                "Begin high-dose IV steroids"
+            ],
+            "final_diagnosis": "Granulomatosis with polyangiitis",
+            "high_quality_distracting_final_diagnosis": "IgG4-related disease",
+            "low_quality_distracting_final_diagnosis": "Acute invasive fungal sinusitis",
+            "poor_quality_distracting_final_diagnosis": "Cerebral venous sinus thrombosis"
+        },
+        {
+            "case_id": "case_7_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312740",
+            "pub_date": "February 28, 2024",
+            "case_type": "Autoimmune",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": 0.09,
+            "differential_diagnoses": [
+                "Antineutrophil cytoplasmic antibody-associated vasculitis",
+                "IgG4-related disease",
+                "Multiple sclerosis",
+                "Neuromyelitis optica spectrum disorder",
+                "Neurosarcoidosis",
+                "Thyroid eye disease"
+            ],
+            "next_steps": [
+                "High-resolution MRI of brain and orbits with and without contrast",
+                "Comprehensive infectious/autoimmune work-up and CSF analysis",
+                "Stepwise ANCA testing"
+            ],
+            "final_diagnosis": "Antineutrophil cytoplasmic antibody-associated vasculitis",
+            "high_quality_distracting_final_diagnosis": "IgG4-related disease",
+            "low_quality_distracting_final_diagnosis": "Thyroid eye disease",
+            "poor_quality_distracting_final_diagnosis": "Guillain-Barré Syndrome"
+        },
+        {
+            "case_id": "case_7_2024",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2312740",
+            "pub_date": "February 28, 2024",
+            "case_type": "Autoimmune",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": 0.09,
+            "differential_diagnoses": [
+                "IgG4-related disease",
+                "Multiple sclerosis",
+                "Neuromyelitis optica spectrum disorder",
+                "Neurosarcoidosis",
+                "Thyroid eye disease"
+            ],
+            "next_steps": [
+                "Repeat a non-contrast head CT",
+                "Start broad-spectrum IV antibiotics",
+                "Request thyroid antibodies and orbital decompression consult",
+                "Empiric high-dose steroids",
+                "Microvascular VI-nerve palsy therefore defer further work-up"
+            ],
+            "final_diagnosis": "Antineutrophil cytoplasmic antibody-associated vasculitis",
+            "high_quality_distracting_final_diagnosis": "IgG4-related disease",
+            "low_quality_distracting_final_diagnosis": "Thyroid eye disease",
+            "poor_quality_distracting_final_diagnosis": "Guillain-Barré Syndrome"
+        },
+        {
+            "case_id": "case_30_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412538",
+            "pub_date": "October 22, 2025",
+            "case_type": "Nephrology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Exacerbation of Heart Failure with Preserved Ejection Fraction (HFpEF)",
+                "Constrictive pericarditis",
+                "Nephrotic syndrome",
+                "ANCA-associated vasculitis",
+                "AL amyloidosis",
+                "Primary membranous nephropathy"
+            ],
+            "next_steps": [
+                "Quantification of Proteinuria with Spot Urine Protein:Creatinine and Albumin:Creatinine Ratios",
+                "Kidney Biopsy",
+                "Serum Anti–PLA2R Antibody Testing",
+                "ANCA Testing",
+                "Bone Marrow Biopsy with Ancillary Studies (Flow Cytometry/FISH/Sequencing Panel)"
+            ],
+            "final_diagnosis": "AL amyloidosis",
+            "high_quality_distracting_final_diagnosis": "Exacerbation of Heart Failure with Preserved Ejection Fraction (HFpEF)",
+            "low_quality_distracting_final_diagnosis": "Constrictive Pericarditis",
+            "poor_quality_distracting_final_diagnosis": "Systemic Lupus Erythematosus"
+        },
+        {
+            "case_id": "case_30_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412538",
+            "pub_date": "October 22, 2025",
+            "case_type": "Nephrology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Exacerbation of Heart Failure with Preserved Ejection Fraction (HFpEF)",
+                "Constrictive pericarditis",
+                "Nephrotic syndrome",
+                "ANCA-associated vasculitis",
+                "Primary membranous nephropathy"
+            ],
+            "next_steps": [
+                "Escalate Diuretics",
+                "Initiate Empiric Immunosuppressive Therapy",
+                "Defer Kidney Biopsy",
+                "Defer Quantitative Proteinuria Testing",
+                "Perform Liver Biopsy"
+            ],
+            "final_diagnosis": "AL amyloidosis",
+            "high_quality_distracting_final_diagnosis": "Exacerbation of Heart Failure with Preserved Ejection Fraction (HFpEF)",
+            "low_quality_distracting_final_diagnosis": "Constrictive Pericarditis",
+            "poor_quality_distracting_final_diagnosis": "Systemic Lupus Erythematosus"
+        },
+        {
+            "case_id": "case_31_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412540",
+            "pub_date": "October 29, 2025",
+            "case_type": "Gastroenterology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Diffuse large B-cell lymphoma of the jejunum",
+                "Celiac disease",
+                "Selective IgA deficiency",
+                "Crohn’s disease",
+                "Autoimmune enteropathy"
+            ],
+            "next_steps": [
+                "Jejunal Biopsy",
+                "Assess adherence to prior antimicrobial regimens",
+                "Infectious Diseases consultation to evaluate persistent giardia testing"
+            ],
+            "final_diagnosis": "Diffuse large B-cell lymphoma of the jejunum",
+            "high_quality_distracting_final_diagnosis": "Crohn’s Disease",
+            "low_quality_distracting_final_diagnosis": "Celiac Disease",
+            "poor_quality_distracting_final_diagnosis": "Intestinal Tuberculosis"
+        },
+        {
+            "case_id": "case_31_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412540",
+            "pub_date": "October 29, 2025",
+            "case_type": "Gastroenterology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Celiac disease",
+                "Selective IgA deficiency",
+                "Crohn’s disease",
+                "Autoimmune enteropathy"
+            ],
+            "next_steps": [
+                "Escalating Crohn’s disease therapy",
+                "Repeating serologic or stool-based testing",
+                "Defer Jejunal Biopsy",
+                "Initiating empiric anticoagulation"
+            ],
+            "final_diagnosis": "Diffuse large B-cell lymphoma of the jejunum",
+            "high_quality_distracting_final_diagnosis": "Crohn’s Disease",
+            "low_quality_distracting_final_diagnosis": "Celiac Disease",
+            "poor_quality_distracting_final_diagnosis": "Intestinal Tuberculosis"
+        },
+        {
+            "case_id": "case_32_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412534",
+            "pub_date": "November 12, 2025",
+            "case_type": "Cardiology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Primary cardiac diffuse large B-cell lymphoma",
+                "Right atrial thrombus",
+                "Infective endocarditis",
+                "Cardiac metastasis",
+                "Atrial myxoma",
+                "Papillary fibroelastoma",
+                "Angiosarcoma",
+                "Rhabdomyosarcoma"
+            ],
+            "next_steps": [
+                "18F-FDG PET-CT Imaging",
+                "Endobronchial Ultrasound–Guided Transbronchial Needle Aspiration Biopsy of FDG-Avid Mediastinal Lymph Node",
+                "Perform pericardiocentesis with cytologic analysis of pericardial fluid"
+            ],
+            "final_diagnosis": "Primary cardiac diffuse large B-cell lymphoma",
+            "high_quality_distracting_final_diagnosis": "Cardiac metastasis",
+            "low_quality_distracting_final_diagnosis": "Right Atrial Thrombus",
+            "poor_quality_distracting_final_diagnosis": "Lipomatous Hypertrophy of the Interatrial Septum"
+        },
+        {
+            "case_id": "case_32_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412534",
+            "pub_date": "November 12, 2025",
+            "case_type": "Cardiology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Right atrial thrombus",
+                "Infective endocarditis",
+                "Cardiac metastasis",
+                "Atrial myxoma",
+                "Papillary fibroelastoma",
+                "Angiosarcoma",
+                "Rhabdomyosarcoma"
+            ],
+            "next_steps": [
+                "Continue anticoagulation",
+                "Escalate broad-spectrum antibiotics",
+                "Transvenous biopsy of the right atrial mass"
+            ],
+            "final_diagnosis": "Primary cardiac diffuse large B-cell lymphoma",
+            "high_quality_distracting_final_diagnosis": "Cardiac metastasis",
+            "low_quality_distracting_final_diagnosis": "Right Atrial Thrombus",
+            "poor_quality_distracting_final_diagnosis": "Lipomatous Hypertrophy of the Interatrial Septum"
+        },
+        {
+            "case_id": "case_33_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412523",
+            "pub_date": "November 19, 2025",
+            "case_type": "Endocrinology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Bipolar I disorder relapse",
+                "Complicated alcohol withdrawal",
+                "Graves’ disease",
+                "Lithium-induced thyrotoxicosis",
+                "Benzodiazepine withdrawal",
+                "Subacute painless thyroiditis"
+            ],
+            "next_steps": [
+                "Continued and titrated beta-blocker therapy",
+                "Outpatient Endocrine/Psychiatric Follow-up",
+                "Order thyroid function tests (TSH, total T4, free T4)"
+            ],
+            "final_diagnosis": "Subacute painless thyroiditis",
+            "high_quality_distracting_final_diagnosis": "Graves’ disease",
+            "low_quality_distracting_final_diagnosis": "Complicated alcohol withdrawal",
+            "poor_quality_distracting_final_diagnosis": "Anti-NMDA Receptor Encephalitis"
+        },
+        {
+            "case_id": "case_33_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412523",
+            "pub_date": "November 19, 2025",
+            "case_type": "Endocrinology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Bipolar I disorder relapse",
+                "Complicated alcohol withdrawal",
+                "Graves’ disease",
+                "Lithium-induced thyrotoxicosis",
+                "Benzodiazepine withdrawal"
+            ],
+            "next_steps": [
+                "Escalate antipsychotic therapy",
+                "Initiate high-dose benzodiazepine therapy",
+                "Brain biopsy or cerebral angiography"
+            ],
+            "final_diagnosis": "Subacute painless thyroiditis",
+            "high_quality_distracting_final_diagnosis": "Graves’ disease",
+            "low_quality_distracting_final_diagnosis": "Complicated alcohol withdrawal",
+            "poor_quality_distracting_final_diagnosis": "Anti-NMDA Receptor Encephalitis"
+        },
+        {
+            "case_id": "case_34_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2513534",
+            "pub_date": "November 26, 2025",
+            "case_type": "Neurology",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Migraine with aura",
+                "Subarachnoid hemorrhage",
+                "Diffuse meningeal melanomatosis",
+                "Reversible cerebral vasoconstriction syndrome",
+                "Cerebral amyloid angiopathy",
+                "Sjögren’s syndrome",
+                "IgG4-related disease",
+                "Metastatic Leptomeningeal Carcinomatosis",
+                "Chronic Infectious Meningitis"
+            ],
+            "next_steps": [
+                "Right Frontal Craniotomy with Brain/Leptomeningeal Biopsy",
+                "MRI of the Head (Current Presentation)",
+                "Immunohistochemical Staining (MITF)",
+                "Molecular Testing (GNAQ p.R183Q Variant)"
+            ],
+            "final_diagnosis": "Diffuse meningeal melanomatosis",
+            "high_quality_distracting_final_diagnosis": "Metastatic Leptomeningeal Carcinomatosis",
+            "low_quality_distracting_final_diagnosis": "Chronic Infectious Meningitis",
+            "poor_quality_distracting_final_diagnosis": "Cortical Laminar Necrosis"
+        },
+        {
+            "case_id": "case_34_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2513534",
+            "pub_date": "November 26, 2025",
+            "case_type": "Neurology",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Migraine with aura",
+                "Subarachnoid hemorrhage",
+                "Reversible cerebral vasoconstriction syndrome",
+                "Cerebral amyloid angiopathy",
+                "Sjögren’s syndrome",
+                "IgG4-related disease",
+                "Metastatic Leptomeningeal Carcinomatosis",
+                "Chronic Infectious Meningitis"
+            ],
+            "next_steps": [
+                "Escalate/Rotate Antiseizure Medications",
+                "Start Empiric High-Dose Corticosteroids",
+                "Pursue Repeated Lumbar Punctures",
+                "Defer Meningeal/Brain Biopsy"
+            ],
+            "final_diagnosis": "Diffuse meningeal melanomatosis",
+            "high_quality_distracting_final_diagnosis": "Metastatic Leptomeningeal Carcinomatosis",
+            "low_quality_distracting_final_diagnosis": "Chronic Infectious Meningitis",
+            "poor_quality_distracting_final_diagnosis": "Cortical Laminar Necrosis"
+        },
+        {
+            "case_id": "case_35_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412530",
+            "pub_date": "December 10, 2025",
+            "case_type": "Autoimmune",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Meningococcemia",
+                "Kawasaki disease",
+                "Rocky Mountain spotted fever",
+                "IgA vasculitis",
+                "MIS-C",
+                "Hand, foot, and mouth disease",
+                "Measles"
+            ],
+            "next_steps": [
+                "Skin biopsy for H&E + direct immunofluorescence (DIF)",
+                "Echocardiography",
+                "Dermatology consultation + morphology-focused exam"
+            ],
+            "final_diagnosis": "IgA vasculitis",
+            "high_quality_distracting_final_diagnosis": "Kawasaki disease",
+            "low_quality_distracting_final_diagnosis": "Measles",
+            "poor_quality_distracting_final_diagnosis": "Lyme disease"
+        },
+        {
+            "case_id": "case_35_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2412530",
+            "pub_date": "December 10, 2025",
+            "case_type": "Autoimmune",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Meningococcemia",
+                "Kawasaki disease",
+                "Rocky Mountain spotted fever",
+                "MIS-C",
+                "Hand, foot, and mouth disease",
+                "Measles"
+            ],
+            "next_steps": [
+                "Prescribe high-dose oral steroids",
+                "CT scan of the abdomen",
+                "Broad-spectrum IV antibiotics",
+                "Lumbar puncture"
+            ],
+            "final_diagnosis": "IgA vasculitis",
+            "high_quality_distracting_final_diagnosis": "Kawasaki disease",
+            "low_quality_distracting_final_diagnosis": "Measles",
+            "poor_quality_distracting_final_diagnosis": "Lyme disease"
+        },
+        {
+            "case_id": "case_36_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2513535",
+            "pub_date": "December 17, 2025",
+            "case_type": "Gastrointestinal",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Hemobilia",
+                "Hilar malignancy (e.g., cholangiocarcinoma)",
+                "Cirrhosis-related portal hypertensive bleeding",
+                "Jejunal variceal bleeding",
+                "Common lower-GI bleeding sources (hemorrhoids/diverticulosis)",
+                "Arteriovenous Fistula"
+            ],
+            "next_steps": [
+                "Portal venography",
+                "Order CT angiography of the abdomen/pelvis using a GI bleeding protocol",
+                "Order MRCP"
+            ],
+            "final_diagnosis": "Jejunal variceal bleeding",
+            "high_quality_distracting_final_diagnosis": "Arteriovenous Fistula",
+            "low_quality_distracting_final_diagnosis": "Liver Cirrhosis",
+            "poor_quality_distracting_final_diagnosis": "Symptomatic internal hemorrhoids"
+        },
+        {
+            "case_id": "case_36_2025",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2513535",
+            "pub_date": "December 17, 2025",
+            "case_type": "Gastrointestinal",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Hemobilia",
+                "Hilar malignancy (e.g., cholangiocarcinoma)",
+                "Cirrhosis-related portal hypertensive bleeding",
+                "Common lower-GI bleeding sources (hemorrhoids/diverticulosis)",
+                "Arteriovenous Fistula"
+            ],
+            "next_steps": [
+                "Discharging with iron supplement",
+                "Treat with proton pump inhibitor",
+                "Malignancy workup (PET scan, tumor markers)"
+            ],
+            "final_diagnosis": "Jejunal variceal bleeding",
+            "high_quality_distracting_final_diagnosis": "Arteriovenous Fistula",
+            "low_quality_distracting_final_diagnosis": "Liver Cirrhosis",
+            "poor_quality_distracting_final_diagnosis": "Symptomatic internal hemorrhoids"
+        },
+        {
+            "case_id": "case_1_2026",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2513324",
+            "pub_date": "January 7, 2026",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Disseminated meningococcal disease",
+                "Malaria (Plasmodium falciparum)",
+                "Dengue shock syndrome",
+                "Fulminant gram-negative enteric sepsis",
+                "Pyelonephritis/urosepsis",
+                "Sepsis"
+            ],
+            "next_steps": [
+                "Dengue testing",
+                "Rapid meningococcal NAAT/PCR from blood",
+                "Peripheral blood smear (thick/thin) ± repeat testing"
+            ],
+            "final_diagnosis": "Disseminated meningococcal disease",
+            "high_quality_distracting_final_diagnosis": "Sepsis",
+            "low_quality_distracting_final_diagnosis": "Malaria (Plasmodium falciparum)",
+            "poor_quality_distracting_final_diagnosis": "Thrombotic thrombocytopenic purpura"
+        },
+        {
+            "case_id": "case_1_2026",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2513324",
+            "pub_date": "January 7, 2026",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Malaria (Plasmodium falciparum)",
+                "Dengue shock syndrome",
+                "Fulminant gram-negative enteric sepsis",
+                "Pyelonephritis/urosepsis",
+                "Sepsis"
+            ],
+            "next_steps": [
+                "Ordering autoimmune panels",
+                "PET scan",
+                "Attributing hypotension to cirrhosis-related physiology",
+                "Pursuing lumbar puncture",
+                "Stop antibiotics"
+            ],
+            "final_diagnosis": "Disseminated meningococcal disease",
+            "high_quality_distracting_final_diagnosis": "Sepsis",
+            "low_quality_distracting_final_diagnosis": "Malaria (Plasmodium falciparum)",
+            "poor_quality_distracting_final_diagnosis": "Thrombotic thrombocytopenic purpura"
+        },
+        {
+            "case_id": "case_2_2026",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402495",
+            "pub_date": "January 14, 2026",
+            "case_type": "Infectious Disease",
+            "differential_type": "helpful",
+            "next_steps_type": "helpful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Endocarditis with septic emboli",
+                "Disseminated hypervirulent Klebsiella pneumoniae",
+                "Disseminated fungal infection",
+                "Mycobacterial infection",
+                "Infective Endocarditis"
+            ],
+            "next_steps": [
+                "Order CT chest/abdomen/pelvis with IV contrast",
+                "Order MRI brain + orbits with contrast",
+                "Obtain microbiology (blood cultures, sputum cultures)",
+                "Order echocardiography"
+            ],
+            "final_diagnosis": "Disseminated hypervirulent Klebsiella pneumoniae",
+            "high_quality_distracting_final_diagnosis": "Infective Endocarditis",
+            "low_quality_distracting_final_diagnosis": "Amebic Liver Abscess",
+            "poor_quality_distracting_final_diagnosis": "Sarcoidosis"
+        },
+        {
+            "case_id": "case_2_2026",
+            "link": "https://www.nejm.org/doi/full/10.1056/NEJMcpc2402495",
+            "pub_date": "January 14, 2026",
+            "case_type": "Infectious Disease",
+            "differential_type": "not_helpful",
+            "next_steps_type": "harmful",
+            "difficulty": null,
+            "differential_diagnoses": [
+                "Endocarditis with septic emboli",
+                "Disseminated fungal infection",
+                "Mycobacterial infection",
+                "Infective Endocarditis"
+            ],
+            "next_steps": [
+                "Percutaneous lung biopsy",
+                "Avoid bronchoscopy",
+                "Defer echocardiography",
+                "Start corticosteroids"
+            ],
+            "final_diagnosis": "Disseminated hypervirulent Klebsiella pneumoniae",
+            "high_quality_distracting_final_diagnosis": "Infective Endocarditis",
+            "low_quality_distracting_final_diagnosis": "Amebic Liver Abscess",
+            "poor_quality_distracting_final_diagnosis": "Sarcoidosis"
+        }
+    ]
+}
